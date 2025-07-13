@@ -1,0 +1,18 @@
+{"time":"2024-10-17T01:55:53.555091769+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T01:55:53.555144469+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_015553-y8gj2ljv/logs/debug-core.log"}
+{"time":"2024-10-17T01:55:53.555271369+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T01:55:53.555292569+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_015553-y8gj2ljv/logs/debug-core.log"}
+{"time":"2024-10-17T01:55:53.69020876+05:30","level":"INFO","msg":"created new stream","id":"y8gj2ljv"}
+{"time":"2024-10-17T01:55:53.69026246+05:30","level":"INFO","msg":"stream: started","id":"y8gj2ljv"}
+{"time":"2024-10-17T01:55:53.69031226+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"y8gj2ljv"}}
+{"time":"2024-10-17T01:55:53.69045436+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"y8gj2ljv"}}
+{"time":"2024-10-17T01:55:53.69038326+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"y8gj2ljv"}}
+{"time":"2024-10-17T01:55:53.700090459+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-17T01:55:53.701252359+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-17T01:56:18.013442206+05:30","level":"INFO","msg":"stream: closing","id":"y8gj2ljv"}
+{"time":"2024-10-17T01:56:18.013614006+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-17T01:56:18.014153807+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-17T01:56:18.014757407+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"y8gj2ljv"}}
+{"time":"2024-10-17T01:56:18.014846907+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"y8gj2ljv"}}
+{"time":"2024-10-17T01:56:18.014893807+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"y8gj2ljv"}}
+{"time":"2024-10-17T01:56:18.015104008+05:30","level":"INFO","msg":"stream: closed","id":"y8gj2ljv"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-16T23:11:41.769772427+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T23:11:41.769802227+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_231141-04v96psh/logs/debug-core.log"}
+{"time":"2024-10-16T23:11:41.769842027+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T23:11:41.769846627+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_231141-04v96psh/logs/debug-core.log"}
+{"time":"2024-10-16T23:11:41.827073527+05:30","level":"INFO","msg":"created new stream","id":"04v96psh"}
+{"time":"2024-10-16T23:11:41.827137227+05:30","level":"INFO","msg":"stream: started","id":"04v96psh"}
+{"time":"2024-10-16T23:11:41.827197227+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"04v96psh"}}
+{"time":"2024-10-16T23:11:41.827198227+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"04v96psh"}}
+{"time":"2024-10-16T23:11:41.827304427+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"04v96psh"}}
+{"time":"2024-10-16T23:11:41.832222927+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T23:11:41.832890427+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-16T23:11:44.346696734+05:30","level":"INFO","msg":"stream: closing","id":"04v96psh"}
+{"time":"2024-10-16T23:11:44.346754034+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-16T23:11:44.347023934+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-16T23:11:44.347166534+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"04v96psh"}}
+{"time":"2024-10-16T23:11:44.347185934+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"04v96psh"}}
+{"time":"2024-10-16T23:11:44.347209934+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"04v96psh"}}
+{"time":"2024-10-16T23:11:44.347348334+05:30","level":"INFO","msg":"stream: closed","id":"04v96psh"}

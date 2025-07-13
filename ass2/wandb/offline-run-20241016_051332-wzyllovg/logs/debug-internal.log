@@ -1,0 +1,18 @@
+{"time":"2024-10-16T05:13:32.747449421+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T05:13:32.747490121+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_051332-wzyllovg/logs/debug-core.log"}
+{"time":"2024-10-16T05:13:32.747524021+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T05:13:32.747528921+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_051332-wzyllovg/logs/debug-core.log"}
+{"time":"2024-10-16T05:13:32.808056623+05:30","level":"INFO","msg":"created new stream","id":"wzyllovg"}
+{"time":"2024-10-16T05:13:32.808110423+05:30","level":"INFO","msg":"stream: started","id":"wzyllovg"}
+{"time":"2024-10-16T05:13:32.808156823+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"wzyllovg"}}
+{"time":"2024-10-16T05:13:32.808200223+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"wzyllovg"}}
+{"time":"2024-10-16T05:13:32.808180823+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wzyllovg"}}
+{"time":"2024-10-16T05:13:32.812678123+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T05:13:32.813171223+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-16T05:13:37.053987379+05:30","level":"INFO","msg":"stream: closing","id":"wzyllovg"}
+{"time":"2024-10-16T05:13:37.054207879+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-16T05:13:37.054568279+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-16T05:13:37.054774779+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"wzyllovg"}}
+{"time":"2024-10-16T05:13:37.054818379+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wzyllovg"}}
+{"time":"2024-10-16T05:13:37.054836979+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"wzyllovg"}}
+{"time":"2024-10-16T05:13:37.054969279+05:30","level":"INFO","msg":"stream: closed","id":"wzyllovg"}

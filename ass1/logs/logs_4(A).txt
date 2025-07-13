@@ -1,0 +1,62 @@
+Iteration 0 
+KL_divergence 17.158797497027727
+Transition prob Right,Left,Up,Down,Same [0.1616542  0.24136419 0.15550302 0.24744981 0.19402877]
+Iteration 1 
+KL_divergence 0.05806213028731642
+Transition prob Right,Left,Up,Down,Same [0.28476412 0.16303613 0.19223319 0.19818113 0.16178543]
+Iteration 2 
+KL_divergence 0.012847507199162939
+Transition prob Right,Left,Up,Down,Same [0.30379318 0.14697803 0.24766824 0.1640515  0.13750905]
+Iteration 3 
+KL_divergence 0.002643115053908952
+Transition prob Right,Left,Up,Down,Same [0.3296095  0.13580434 0.25604231 0.15804782 0.12049604]
+Iteration 4 
+KL_divergence 0.0007696642863669203
+Transition prob Right,Left,Up,Down,Same [0.3341743  0.13507722 0.26736839 0.15410603 0.10927406]
+Iteration 5 
+KL_divergence 0.00027150006869139506
+Transition prob Right,Left,Up,Down,Same [0.33931827 0.13441418 0.26957425 0.15498589 0.10170741]
+Iteration 6 
+KL_divergence 0.00011836560759073271
+Transition prob Right,Left,Up,Down,Same [0.34056527 0.13549282 0.27186804 0.15539655 0.09667733]
+Iteration 7 
+KL_divergence 5.45675745991209e-05
+Transition prob Right,Left,Up,Down,Same [0.34159667 0.13603465 0.27251545 0.15653738 0.09331585]
+Iteration 8 
+KL_divergence 2.5032684341033718e-05
+Transition prob Right,Left,Up,Down,Same [0.34197959 0.13680429 0.27299248 0.15713514 0.09108851]
+Iteration 9 
+KL_divergence 1.1512246378726341e-05
+Transition prob Right,Left,Up,Down,Same [0.34218883 0.13720021 0.27320607 0.15779305 0.08961184]
+Iteration 10 
+KL_divergence 5.12825630163469e-06
+Transition prob Right,Left,Up,Down,Same [0.34232237 0.13759922 0.27330941 0.15813131 0.0886377 ]
+Iteration 11 
+KL_divergence 2.300566327364418e-06
+Transition prob Right,Left,Up,Down,Same [0.3423644  0.1377998  0.27338861 0.15845226 0.08799493]
+Iteration 12 
+KL_divergence 1.0025105786329479e-06
+Transition prob Right,Left,Up,Down,Same [0.34241655 0.13798749 0.27341185 0.15861202 0.08757208]
+Iteration 13 
+KL_divergence 4.434545805210012e-07
+Transition prob Right,Left,Up,Down,Same [0.3424241  0.13807858 0.27344406 0.15875952 0.08729374]
+Iteration 14 
+KL_divergence 1.9091858418524175e-07
+Transition prob Right,Left,Up,Down,Same [0.34244617 0.13816362 0.27344923 0.15883008 0.0871109 ]
+Iteration 15 
+KL_divergence 8.395272547696642e-08
+Transition prob Right,Left,Up,Down,Same [0.34244678 0.13820313 0.27346314 0.15889627 0.08699068]
+Iteration 16 
+KL_divergence 3.590518975367644e-08
+Transition prob Right,Left,Up,Down,Same [0.34245658 0.13824109 0.27346408 0.15892648 0.08691177]
+Iteration 17 
+KL_divergence 1.5764668542961535e-08
+Transition prob Right,Left,Up,Down,Same [0.34245604 0.13825783 0.27347031 0.15895591 0.08685991]
+Iteration 18 
+KL_divergence 6.715332025415608e-09
+Transition prob Right,Left,Up,Down,Same [0.34246052 0.13827468 0.27347029 0.15896862 0.08682588]
+Iteration 19 
+KL_divergence 2.9508653294008647e-09
+Transition prob Right,Left,Up,Down,Same [0.34245998 0.13828168 0.27347314 0.15898168 0.08680352]
+Finished
+array([0.34245998, 0.13828168, 0.27347314, 0.15898168, 0.08680352])

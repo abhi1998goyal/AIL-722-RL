@@ -1,0 +1,11 @@
+{"time":"2024-10-17T04:15:23.054659764+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T04:15:23.054688264+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_041523-zekidz38/logs/debug-core.log"}
+{"time":"2024-10-17T04:15:23.054747064+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T04:15:23.054754964+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_041523-zekidz38/logs/debug-core.log"}
+{"time":"2024-10-17T04:15:23.119857573+05:30","level":"INFO","msg":"created new stream","id":"zekidz38"}
+{"time":"2024-10-17T04:15:23.120027273+05:30","level":"INFO","msg":"stream: started","id":"zekidz38"}
+{"time":"2024-10-17T04:15:23.120089673+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"zekidz38"}}
+{"time":"2024-10-17T04:15:23.120130173+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"zekidz38"}}
+{"time":"2024-10-17T04:15:23.120163373+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zekidz38"}}
+{"time":"2024-10-17T04:15:23.128446574+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-17T04:15:23.129555274+05:30","level":"INFO","msg":"Starting system monitor"}

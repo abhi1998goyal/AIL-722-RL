@@ -1,0 +1,18 @@
+{"time":"2024-10-17T17:46:48.377491738+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T17:46:48.377647938+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_174648-voki6a7w/logs/debug-core.log"}
+{"time":"2024-10-17T17:46:48.377758938+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T17:46:48.377765538+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_174648-voki6a7w/logs/debug-core.log"}
+{"time":"2024-10-17T17:46:48.498986967+05:30","level":"INFO","msg":"created new stream","id":"voki6a7w"}
+{"time":"2024-10-17T17:46:48.499120367+05:30","level":"INFO","msg":"stream: started","id":"voki6a7w"}
+{"time":"2024-10-17T17:46:48.499288967+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"voki6a7w"}}
+{"time":"2024-10-17T17:46:48.499205967+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"voki6a7w"}}
+{"time":"2024-10-17T17:46:48.499232167+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"voki6a7w"}}
+{"time":"2024-10-17T17:46:48.513798071+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-17T17:46:48.515357871+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-17T17:51:23.519081327+05:30","level":"INFO","msg":"stream: closing","id":"voki6a7w"}
+{"time":"2024-10-17T17:51:23.519164627+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-17T17:51:23.527610528+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-17T17:51:23.529233828+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"voki6a7w"}}
+{"time":"2024-10-17T17:51:23.529305928+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"voki6a7w"}}
+{"time":"2024-10-17T17:51:23.529391628+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"voki6a7w"}}
+{"time":"2024-10-17T17:51:23.529514328+05:30","level":"INFO","msg":"stream: closed","id":"voki6a7w"}

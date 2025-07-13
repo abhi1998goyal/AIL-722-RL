@@ -1,0 +1,13 @@
+{"time":"2024-10-21T14:11:35.468548949+05:30","level":"INFO","msg":"started logging, with flags","port-filename":"/var/tmp/pbs.174386.pbshpc/tmpgqiuldnp/port-13636.txt","pid":13636,"debug":false,"disable-analytics":false}
+{"time":"2024-10-21T14:11:35.468832347+05:30","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-10-21T14:11:35.588257346+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":13636}
+{"time":"2024-10-21T14:11:35.588234869+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":44889,"Zone":""}}
+{"time":"2024-10-21T14:11:35.664861276+05:30","level":"INFO","msg":"created new connection","id":"127.0.0.1:57306"}
+{"time":"2024-10-21T14:11:35.6827694+05:30","level":"INFO","msg":"connection init received","streamId":"w081mus7","id":"127.0.0.1:57306"}
+{"time":"2024-10-21T14:11:35.68511887+05:30","level":"ERROR","msg":"error creating symlink","error":"symlink /home/scai/mtech/aib232073/.cache/wandb/logs/core-debug-20241021_141135.log /home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/logs/debug-core.log: file exists"}
+{"time":"2024-10-21T14:11:35.696801206+05:30","level":"INFO","msg":"connection init completed","streamId":"w081mus7","id":"127.0.0.1:57306"}
+{"time":"2024-10-21T14:17:35.629140308+05:30","level":"INFO","msg":"connection: teardown","id":"127.0.0.1:57306"}
+{"time":"2024-10-21T14:17:35.629268403+05:30","level":"INFO","msg":"closed connection","id":"127.0.0.1:57306"}
+{"time":"2024-10-21T14:17:35.629332911+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2024-10-21T14:17:35.631083916+05:30","level":"INFO","msg":"connection closed","id":"127.0.0.1:57306"}
+{"time":"2024-10-21T14:17:35.631112785+05:30","level":"INFO","msg":"server is closed"}

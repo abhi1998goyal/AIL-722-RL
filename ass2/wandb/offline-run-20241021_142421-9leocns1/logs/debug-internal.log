@@ -1,0 +1,18 @@
+{"time":"2024-10-21T14:24:21.554813063+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T14:24:21.554840463+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241021_142421-9leocns1/logs/debug-core.log"}
+{"time":"2024-10-21T14:24:21.554889863+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T14:24:21.554895763+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241021_142421-9leocns1/logs/debug-core.log"}
+{"time":"2024-10-21T14:24:21.593603308+05:30","level":"INFO","msg":"created new stream","id":"9leocns1"}
+{"time":"2024-10-21T14:24:21.593652408+05:30","level":"INFO","msg":"stream: started","id":"9leocns1"}
+{"time":"2024-10-21T14:24:21.593731408+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"9leocns1"}}
+{"time":"2024-10-21T14:24:21.593685108+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"9leocns1"}}
+{"time":"2024-10-21T14:24:21.593693308+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"9leocns1"}}
+{"time":"2024-10-21T14:24:21.598128413+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-21T14:24:21.598773214+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-21T14:24:29.171554465+05:30","level":"INFO","msg":"stream: closing","id":"9leocns1"}
+{"time":"2024-10-21T14:24:29.171603765+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-21T14:24:29.171805565+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-21T14:24:29.172055265+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"9leocns1"}}
+{"time":"2024-10-21T14:24:29.172077565+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"9leocns1"}}
+{"time":"2024-10-21T14:24:29.172114165+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"9leocns1"}}
+{"time":"2024-10-21T14:24:29.172137365+05:30","level":"INFO","msg":"stream: closed","id":"9leocns1"}

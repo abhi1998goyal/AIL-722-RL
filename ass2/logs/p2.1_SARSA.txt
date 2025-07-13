@@ -1,0 +1,24 @@
+(dqn) (base) root@Abhishek:/home/RL/ass2/p3/p3.2# /root/anaconda3/envs/dqn/bin/python /home/RL/ass2/p2/SARSA_treasurehunt.py
+Episode 100 Avg reward -8.912799999999988
+Episode 200 Avg reward -6.045499999999992
+Episode 300 Avg reward -4.1827
+Episode 400 Avg reward -3.263099999999996
+Episode 500 Avg reward -2.225399999999996
+Episode 600 Avg reward -1.654499999999997
+Episode 700 Avg reward -1.4642999999999982
+Episode 800 Avg reward -1.1480999999999988
+Episode 900 Avg reward -0.9852999999999978
+Episode 1000 Avg reward -0.7890999999999987
+Episode 1100 Avg reward -1.3064999999999976
+Episode 1200 Avg reward -0.7485999999999983
+Episode 1300 Avg reward -0.6769999999999987
+Episode 1400 Avg reward -0.24269999999999878
+Convergence completed in 2.07 seconds
+frames 10
+frames 26
+frames 8
+frames 16
+frames 17
+Results after 5 episodes:
+Average timesteps per episode: 14.4
+Average reward per episode: -0.07000000000000003

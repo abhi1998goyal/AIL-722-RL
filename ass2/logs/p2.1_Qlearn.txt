@@ -1,0 +1,54 @@
+(dqn) (base) root@Abhishek:/home/RL/ass2/p3/p3.2# /root/anaconda3/envs/dqn/bin/python /home/RL/ass2/p2/Qlearning_treasurehunt.py
+Episode 500 Avg reward -7.215339999999991
+Episode 1000 Avg reward -4.793859999999994
+Episode 1500 Avg reward -3.1454999999999975
+Episode 2000 Avg reward -2.281479999999998
+Episode 2500 Avg reward -1.6277599999999983
+Episode 3000 Avg reward -1.3686599999999984
+Episode 3500 Avg reward -1.3118999999999985
+Episode 4000 Avg reward -1.0952999999999982
+Episode 4500 Avg reward -0.9576199999999983
+Episode 5000 Avg reward -0.9584399999999977
+Episode 5500 Avg reward -0.7667999999999984
+Episode 6000 Avg reward -0.7990199999999983
+Episode 6500 Avg reward -0.9214399999999976
+Episode 7000 Avg reward -0.7760399999999983
+Episode 7500 Avg reward -0.7984999999999981
+Episode 8000 Avg reward -0.8128999999999981
+Episode 8500 Avg reward -1.018919999999998
+Episode 9000 Avg reward -0.6614399999999983
+Episode 9500 Avg reward -1.0728999999999975
+Episode 10000 Avg reward -0.8683399999999979
+Episode 10500 Avg reward -0.7491999999999976
+Episode 11000 Avg reward -0.8118399999999978
+Episode 11500 Avg reward -0.8529399999999978
+Episode 12000 Avg reward -0.6542199999999978
+Episode 12500 Avg reward -0.7683399999999977
+Episode 13000 Avg reward -0.6820399999999976
+Episode 13500 Avg reward -0.39455999999999813
+Convergence completed in 28.18 seconds
+
+
+
+(dqn) (base) root@Abhishek:/home/RL/ass2/p3/p3.2# /root/anaconda3/envs/dqn/bin/python /home/RL/ass2/p2/Qlearning_treasurehunt.py
+Episode 100 Avg reward -9.060599999999987
+Episode 200 Avg reward -5.768199999999994
+Episode 300 Avg reward -3.611399999999997
+Episode 400 Avg reward -2.905899999999998
+Episode 500 Avg reward -1.5887000000000016
+Episode 600 Avg reward -1.5415999999999987
+Episode 700 Avg reward -1.7575999999999978
+Episode 800 Avg reward -1.002399999999997
+Episode 900 Avg reward -0.9453999999999987
+Episode 1000 Avg reward -1.0714999999999977
+Episode 1100 Avg reward -0.33799999999999897
+Convergence completed in 4.39 seconds
+frames 25
+frames 16
+frames 6
+frames 25
+frames 42
+Results after 5 episodes:
+Average timesteps per episode: 21.8
+Average reward per episode: -0.15000000000000013
+(dqn) (base) root@Abhishek:/home/RL/ass2/p3/p3.2# 

@@ -1,0 +1,18 @@
+{"time":"2024-10-16T17:04:08.20547686+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T17:04:08.20552856+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_170408-930tcgoq/logs/debug-core.log"}
+{"time":"2024-10-16T17:04:08.20559836+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T17:04:08.20560736+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_170408-930tcgoq/logs/debug-core.log"}
+{"time":"2024-10-16T17:04:08.249210558+05:30","level":"INFO","msg":"created new stream","id":"930tcgoq"}
+{"time":"2024-10-16T17:04:08.249256558+05:30","level":"INFO","msg":"stream: started","id":"930tcgoq"}
+{"time":"2024-10-16T17:04:08.249307158+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"930tcgoq"}}
+{"time":"2024-10-16T17:04:08.249337158+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"930tcgoq"}}
+{"time":"2024-10-16T17:04:08.249377358+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"930tcgoq"}}
+{"time":"2024-10-16T17:04:08.254839758+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T17:04:08.255579458+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-16T17:04:10.774056067+05:30","level":"INFO","msg":"stream: closing","id":"930tcgoq"}
+{"time":"2024-10-16T17:04:10.774196567+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-16T17:04:10.774405367+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-16T17:04:10.774551367+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"930tcgoq"}}
+{"time":"2024-10-16T17:04:10.774575267+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"930tcgoq"}}
+{"time":"2024-10-16T17:04:10.774612767+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"930tcgoq"}}
+{"time":"2024-10-16T17:04:10.774679167+05:30","level":"INFO","msg":"stream: closed","id":"930tcgoq"}

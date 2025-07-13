@@ -1,0 +1,22 @@
+State shape:  (8,)
+Number of actions:  4
+━━━> Episode 100	Average Score: -186.73   Epsilon:0.850 | Saved
+━━━> Episode 200	Average Score: -146.46   Epsilon:0.722 | Saved
+━━━> Episode 300	Average Score: -132.99   Epsilon:0.614 | Saved
+━━━> Episode 400	Average Score: -97.97   Epsilon:0.522 | Saved
+━━━> Episode 500	Average Score: -69.33   Epsilon:0.444 | Saved
+━━━> Episode 600	Average Score: 0.76   Epsilon:0.377 | Saved
+Traceback (most recent call last):
+  File "/home/RL/ass2/p3/p3.1/train.py", line 84, in <module>
+    main(args.config)
+  File "/home/RL/ass2/p3/p3.1/train.py", line 59, in main
+    scores = dqn(agent, env, TrainingConfigs)
+  File "/home/RL/ass2/p3/p3.1/dqn.py", line 36, in dqn
+    experiences= agent.memory.sample(TrainingConfigs['batch_size'],agent.device)
+  File "/home/RL/ass2/p3/p3.1/agent.py", line 74, in sample
+    dones = torch.from_numpy(np.vstack([e.done for e in exp]).astype(np.uint8)).float().to(device)
+  File "<__array_function__ internals>", line 180, in vstack
+  File "/root/anaconda3/envs/dqn_1/lib/python3.9/site-packages/numpy/core/shape_base.py", line 282, in vstack
+    return _nx.concatenate(arrs, 0)
+  File "<__array_function__ internals>", line 180, in concatenate
+KeyboardInterrupt

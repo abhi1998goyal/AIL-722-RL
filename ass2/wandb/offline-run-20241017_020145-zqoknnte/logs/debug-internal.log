@@ -1,0 +1,18 @@
+{"time":"2024-10-17T02:01:45.554500891+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T02:01:45.554635891+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_020145-zqoknnte/logs/debug-core.log"}
+{"time":"2024-10-17T02:01:45.554791091+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T02:01:45.554804691+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_020145-zqoknnte/logs/debug-core.log"}
+{"time":"2024-10-17T02:01:45.693820082+05:30","level":"INFO","msg":"created new stream","id":"zqoknnte"}
+{"time":"2024-10-17T02:01:45.693933182+05:30","level":"INFO","msg":"stream: started","id":"zqoknnte"}
+{"time":"2024-10-17T02:01:45.693995282+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"zqoknnte"}}
+{"time":"2024-10-17T02:01:45.694165182+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zqoknnte"}}
+{"time":"2024-10-17T02:01:45.694131382+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"zqoknnte"}}
+{"time":"2024-10-17T02:01:45.704401282+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-17T02:01:45.749960979+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-17T02:08:02.902245453+05:30","level":"INFO","msg":"stream: closing","id":"zqoknnte"}
+{"time":"2024-10-17T02:08:02.902437153+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-17T02:08:02.902959053+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-17T02:08:02.903655853+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"zqoknnte"}}
+{"time":"2024-10-17T02:08:02.903799153+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zqoknnte"}}
+{"time":"2024-10-17T02:08:02.903979853+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"zqoknnte"}}
+{"time":"2024-10-17T02:08:02.904014653+05:30","level":"INFO","msg":"stream: closed","id":"zqoknnte"}

@@ -1,0 +1,34 @@
+(dqn_1) (base) root@Abhishek:/home/RL/ass2# /root/anaconda3/envs/dqn_1/bin/python /home/RL/ass2/p3/p3.1/train.py
+wandb: Using wandb-core as the SDK backend. Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.18.1
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+State shape:  (8,)
+Number of actions:  4
+Saved Checkpoint at /home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth!
+━━━> Episode 100        Average Score: -269.56   Epsilon:0.800 | Saved
+Saved Checkpoint at /home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth!
+━━━> Episode 200        Average Score: -248.58   Epsilon:0.640 | Saved
+Saved Checkpoint at /home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth!
+━━━> Episode 300        Average Score: -216.70   Epsilon:0.512 | Saved
+Saved Checkpoint at /home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth!
+━━━> Episode 400        Average Score: -187.35   Epsilon:0.410 | Saved
+Saved Checkpoint at /home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth!
+━━━> Episode 500        Average Score: -153.94   Epsilon:0.328 | Saved
+Saved Checkpoint at /home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth!
+━━━> Episode 600        Average Score: -124.36   Epsilon:0.262 | Saved
+Saved Checkpoint at /home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth!
+━━━> Episode 700        Average Score: -105.95   Epsilon:0.210 | Saved
+Saved Checkpoint at /home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth!
+━━━> Episode 800        Average Score: -79.12   Epsilon:0.168 | Saved
+Saved Checkpoint at /home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth!
+━━━> Episode 900        Average Score: 17.08   Epsilon:0.134 | Saved
+Saved Checkpoint at /home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth!
+━━━> Episode 1000       Average Score: 122.66   Epsilon:0.107 | Saved
+Episode 1100    Average Score: 118.90  Epsilon:0.086
+Episode 1200    Average Score: 116.72  Epsilon:0.069
+Episode 1300    Average Score: 7.15  Epsilon:0.055
+Saved Checkpoint at /home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth!
+━━━> Episode 1400       Average Score: 128.18   Epsilon:0.044 | Saved
+Episode 1500    Average Score: 119.94  Epsilon:0.035
+Episode 1600    Average Score: 100.10  Epsilon:0.028

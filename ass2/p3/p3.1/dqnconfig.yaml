@@ -1,0 +1,29 @@
+agent:
+    buffer_size: 100000  # replay buffer size steps
+    lr: 0.0005    # learning rate for optimizer
+    state_size: 8 
+    action_size: 4
+    seed : 15
+    device: 'cuda' #'cpu'
+    tau:  0.001
+training:
+    n_episodes: 10000
+    max_traj_len: 1000
+    batch_size: 64 #steps
+    gamma: 0.999
+    checkpoint_path : "/home/RL/ass2/saved_model/lunar_checkpoint_wind/ckpt.pth"
+    eps_start: 1
+    eps_end: 0.001
+    eps_decay: 0.8
+    eps_k: 100
+    av_window: 100
+    wandblogging: True
+    wandb_mode: 'offline' #'offline'
+    wandb_run_name: 'AIL722_Lunar_Wind'
+    target_update: 100 #episodes
+env:    
+    name: 'LunarLander-v2'
+    Options: {continuous: False, gravity: -10.0, enable_wind: True, wind_power: 15.0 ,turbulence_power: 1.5, render_mode: rgb_array} 
+
+
+# You can add any more configuration you require

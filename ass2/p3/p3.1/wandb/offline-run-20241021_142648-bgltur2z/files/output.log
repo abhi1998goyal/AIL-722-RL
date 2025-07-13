@@ -1,0 +1,36 @@
+State shape:  (8,)
+Number of actions:  4
+━━━> Episode 100	Average Score: -167.12   Epsilon:0.999 | Saved
+Episode 200	Average Score: -169.74  Epsilon:0.998
+━━━> Episode 300	Average Score: -165.26   Epsilon:0.997 | Saved
+Episode 400	Average Score: -179.20  Epsilon:0.996
+Episode 500	Average Score: -194.51  Epsilon:0.995
+Episode 600	Average Score: -175.16  Epsilon:0.994
+Episode 700	Average Score: -185.21  Epsilon:0.993
+Episode 800	Average Score: -166.72  Epsilon:0.992
+Episode 900	Average Score: -166.34  Epsilon:0.991
+━━━> Episode 1000	Average Score: -163.50   Epsilon:0.990 | Saved
+Episode 1100	Average Score: -176.56  Epsilon:0.989
+Episode 1200	Average Score: -195.35  Epsilon:0.988
+Episode 1300	Average Score: -165.59  Epsilon:0.987
+Episode 1400	Average Score: -164.40  Epsilon:0.986
+━━━> Episode 1500	Average Score: -162.70   Epsilon:0.985 | Saved
+Episode 1600	Average Score: -173.01  Epsilon:0.984
+Episode 1700	Average Score: -169.68  Epsilon:0.983
+Episode 1800	Average Score: -173.17  Epsilon:0.982
+Traceback (most recent call last):
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/train.py", line 81, in <module>
+    main(args.config)
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/train.py", line 57, in main
+    scores = dqn(agent, env, TrainingConfigs)
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/dqn.py", line 37, in dqn
+    agent.batch_learn(experiences,TrainingConfigs['gamma'])
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/agent.py", line 194, in batch_learn
+    q_expected = self.qnetwork_local(states).gather(1, actions.long())
+  File "/home/scai/mtech/aib232073/miniconda3/envs/dqn/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/agent.py", line 30, in forward
+    x = F.relu(self.fc3(x))
+  File "/home/scai/mtech/aib232073/miniconda3/envs/dqn/lib/python3.9/site-packages/torch/nn/functional.py", line 1457, in relu
+    result = torch.relu(input)
+KeyboardInterrupt

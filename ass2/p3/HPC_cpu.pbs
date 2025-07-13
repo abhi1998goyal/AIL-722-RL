@@ -1,0 +1,29 @@
+#!/bin/sh
+#PBS -N CPUJob
+#PBS -P ail722.aiz232073.course
+#PBS -q standard
+#PBS -m bea
+#PBS -M $USER@iitd.ac.in
+#PBS -l select=1:ncpus=4:centos=skylake
+#PBS -l walltime=15:00:00
+export OMP_NUM_THREADS=1
+# $PBS_O_WORKDIR is the directory from where the job is fired.
+
+echo "==============================="
+echo $PBS_JOBID
+cat $PBS_NODEFILE
+echo "==============================="
+##cd $HOME
+##export SSL_CERT_FILE=$HOME/CCIITD-CA.crt
+##python2 iitdproxy.py proxyAuth.txt
+##export https_proxy=10.10.78.62:3128
+##export ftp_proxy=10.10.78.62:3128
+##export http_proxy=10.10.78.62:3128
+
+cd $PBS_O_WORKDIR
+
+##job
+while true
+do
+  sleep 60  # Sleep for 60 seconds to avoid overloading the CPU
+done

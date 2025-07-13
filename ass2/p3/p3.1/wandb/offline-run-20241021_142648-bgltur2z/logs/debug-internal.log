@@ -1,0 +1,18 @@
+{"time":"2024-10-21T14:26:48.216743934+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T14:26:48.228985962+05:30","level":"INFO","msg":"created symlink","path":"/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/logs/debug-core.log"}
+{"time":"2024-10-21T14:26:48.229440305+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T14:26:48.229481725+05:30","level":"INFO","msg":"created symlink","path":"/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/logs/debug-core.log"}
+{"time":"2024-10-21T14:26:48.23114762+05:30","level":"INFO","msg":"created new stream","id":"bgltur2z"}
+{"time":"2024-10-21T14:26:48.231182842+05:30","level":"INFO","msg":"stream: started","id":"bgltur2z"}
+{"time":"2024-10-21T14:26:48.231224173+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"bgltur2z"}}
+{"time":"2024-10-21T14:26:48.231294747+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bgltur2z"}}
+{"time":"2024-10-21T14:26:48.231356978+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"bgltur2z"}}
+{"time":"2024-10-21T14:26:48.236141667+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-21T14:26:48.276080079+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-21T14:32:33.021783865+05:30","level":"INFO","msg":"stream: closing","id":"bgltur2z"}
+{"time":"2024-10-21T14:32:33.021882537+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-21T14:32:33.035481908+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-21T14:32:33.035805495+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"bgltur2z"}}
+{"time":"2024-10-21T14:32:33.035875379+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"bgltur2z"}}
+{"time":"2024-10-21T14:32:33.035920158+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"bgltur2z"}}
+{"time":"2024-10-21T14:32:33.036209522+05:30","level":"INFO","msg":"stream: closed","id":"bgltur2z"}

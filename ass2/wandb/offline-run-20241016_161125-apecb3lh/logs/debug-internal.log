@@ -1,0 +1,18 @@
+{"time":"2024-10-16T16:11:25.182030587+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T16:11:25.182158387+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_161125-apecb3lh/logs/debug-core.log"}
+{"time":"2024-10-16T16:11:25.182277587+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T16:11:25.182290887+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_161125-apecb3lh/logs/debug-core.log"}
+{"time":"2024-10-16T16:11:25.292495776+05:30","level":"INFO","msg":"created new stream","id":"apecb3lh"}
+{"time":"2024-10-16T16:11:25.292593976+05:30","level":"INFO","msg":"stream: started","id":"apecb3lh"}
+{"time":"2024-10-16T16:11:25.292650576+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"apecb3lh"}}
+{"time":"2024-10-16T16:11:25.292766276+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"apecb3lh"}}
+{"time":"2024-10-16T16:11:25.292659276+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"apecb3lh"}}
+{"time":"2024-10-16T16:11:25.308897089+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T16:11:25.30999259+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-16T16:11:34.253642517+05:30","level":"INFO","msg":"stream: closing","id":"apecb3lh"}
+{"time":"2024-10-16T16:11:34.255681421+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-16T16:11:34.257258624+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-16T16:11:34.258355826+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"apecb3lh"}}
+{"time":"2024-10-16T16:11:34.258527126+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"apecb3lh"}}
+{"time":"2024-10-16T16:11:34.258538426+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"apecb3lh"}}
+{"time":"2024-10-16T16:11:34.258659426+05:30","level":"INFO","msg":"stream: closed","id":"apecb3lh"}

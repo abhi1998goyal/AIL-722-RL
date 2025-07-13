@@ -1,0 +1,18 @@
+{"time":"2024-10-21T14:11:35.68481505+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T14:11:35.684980491+05:30","level":"INFO","msg":"created symlink","path":"/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/logs/debug-core.log"}
+{"time":"2024-10-21T14:11:35.68515451+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T14:11:35.685165754+05:30","level":"INFO","msg":"created symlink","path":"/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/logs/debug-core.log"}
+{"time":"2024-10-21T14:11:35.696745361+05:30","level":"INFO","msg":"created new stream","id":"w081mus7"}
+{"time":"2024-10-21T14:11:35.696785642+05:30","level":"INFO","msg":"stream: started","id":"w081mus7"}
+{"time":"2024-10-21T14:11:35.696827293+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"w081mus7"}}
+{"time":"2024-10-21T14:11:35.696843888+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"w081mus7"}}
+{"time":"2024-10-21T14:11:35.696865767+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"w081mus7"}}
+{"time":"2024-10-21T14:11:35.701234916+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-21T14:11:35.742147125+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-21T14:17:35.629253216+05:30","level":"INFO","msg":"stream: closing","id":"w081mus7"}
+{"time":"2024-10-21T14:17:35.629303891+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-21T14:17:35.629401271+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-21T14:17:35.629515294+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"w081mus7"}}
+{"time":"2024-10-21T14:17:35.62954007+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"w081mus7"}}
+{"time":"2024-10-21T14:17:35.629560519+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"w081mus7"}}
+{"time":"2024-10-21T14:17:35.630781148+05:30","level":"INFO","msg":"stream: closed","id":"w081mus7"}

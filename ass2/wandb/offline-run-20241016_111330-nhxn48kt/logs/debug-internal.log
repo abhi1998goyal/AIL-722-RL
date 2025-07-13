@@ -1,0 +1,18 @@
+{"time":"2024-10-16T11:13:30.696429402+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T11:13:30.696472902+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_111330-nhxn48kt/logs/debug-core.log"}
+{"time":"2024-10-16T11:13:30.696551002+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T11:13:30.696560802+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_111330-nhxn48kt/logs/debug-core.log"}
+{"time":"2024-10-16T11:13:30.828152803+05:30","level":"INFO","msg":"created new stream","id":"nhxn48kt"}
+{"time":"2024-10-16T11:13:30.828242503+05:30","level":"INFO","msg":"stream: started","id":"nhxn48kt"}
+{"time":"2024-10-16T11:13:30.828307403+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"nhxn48kt"}}
+{"time":"2024-10-16T11:13:30.828308403+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"nhxn48kt"}}
+{"time":"2024-10-16T11:13:30.828417603+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"nhxn48kt"}}
+{"time":"2024-10-16T11:13:30.839022403+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T11:13:30.840972703+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-16T11:13:38.120623375+05:30","level":"INFO","msg":"stream: closing","id":"nhxn48kt"}
+{"time":"2024-10-16T11:13:38.120690175+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-16T11:13:38.121206575+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-16T11:13:38.121507175+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"nhxn48kt"}}
+{"time":"2024-10-16T11:13:38.121560175+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"nhxn48kt"}}
+{"time":"2024-10-16T11:13:38.121579375+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"nhxn48kt"}}
+{"time":"2024-10-16T11:13:38.121733975+05:30","level":"INFO","msg":"stream: closed","id":"nhxn48kt"}

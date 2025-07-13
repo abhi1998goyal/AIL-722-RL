@@ -1,0 +1,30 @@
+State shape:  (8,)
+Number of actions:  4
+━━━> Episode 100	Average Score: -199.44   Epsilon:0.990 | Saved
+━━━> Episode 200	Average Score: -179.42   Epsilon:0.980 | Saved
+Episode 300	Average Score: -187.17  Epsilon:0.970
+━━━> Episode 400	Average Score: -171.08   Epsilon:0.961 | Saved
+Episode 500	Average Score: -172.19  Epsilon:0.951
+━━━> Episode 600	Average Score: -153.80   Epsilon:0.941 | Saved
+━━━> Episode 700	Average Score: -141.90   Epsilon:0.932 | Saved
+Episode 800	Average Score: -145.61  Epsilon:0.923
+━━━> Episode 900	Average Score: -132.76   Epsilon:0.914 | Saved
+Episode 1000	Average Score: -135.11  Epsilon:0.904
+━━━> Episode 1100	Average Score: -110.97   Epsilon:0.895 | Saved
+━━━> Episode 1200	Average Score: -106.98   Epsilon:0.886 | Saved
+Episode 1300	Average Score: -108.06  Epsilon:0.878
+Episode 1400	Average Score: -111.91  Epsilon:0.869
+━━━> Episode 1500	Average Score: -106.38   Epsilon:0.860 | Saved
+━━━> Episode 1600	Average Score: -97.28   Epsilon:0.851 | Saved
+Episode 1700	Average Score: -127.73  Epsilon:0.843
+Episode 1800	Average Score: -108.21  Epsilon:0.835
+Traceback (most recent call last):
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/train.py", line 81, in <module>
+    main(args.config)
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/train.py", line 57, in main
+    scores = dqn(agent, env, TrainingConfigs)
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/dqn.py", line 36, in dqn
+    experiences= agent.memory.sample(TrainingConfigs['batch_size'],agent.device)
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/agent.py", line 72, in sample
+    rewards = torch.from_numpy(np.vstack([e.reward for e in exp])).float().to(device)
+KeyboardInterrupt

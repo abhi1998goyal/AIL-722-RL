@@ -1,0 +1,18 @@
+{"time":"2024-10-17T01:35:06.779672564+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T01:35:06.779732465+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_013506-stea54cl/logs/debug-core.log"}
+{"time":"2024-10-17T01:35:06.779865865+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T01:35:06.779881365+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_013506-stea54cl/logs/debug-core.log"}
+{"time":"2024-10-17T01:35:06.907120542+05:30","level":"INFO","msg":"created new stream","id":"stea54cl"}
+{"time":"2024-10-17T01:35:06.907215742+05:30","level":"INFO","msg":"stream: started","id":"stea54cl"}
+{"time":"2024-10-17T01:35:06.907268442+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"stea54cl"}}
+{"time":"2024-10-17T01:35:06.907356442+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"stea54cl"}}
+{"time":"2024-10-17T01:35:06.907395642+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"stea54cl"}}
+{"time":"2024-10-17T01:35:06.920818651+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-17T01:35:06.922538552+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-17T01:39:49.501530087+05:30","level":"INFO","msg":"stream: closing","id":"stea54cl"}
+{"time":"2024-10-17T01:39:49.501690087+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-17T01:39:49.502079387+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-17T01:39:49.502328987+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"stea54cl"}}
+{"time":"2024-10-17T01:39:49.502376087+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"stea54cl"}}
+{"time":"2024-10-17T01:39:49.502432287+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"stea54cl"}}
+{"time":"2024-10-17T01:39:49.502665487+05:30","level":"INFO","msg":"stream: closed","id":"stea54cl"}

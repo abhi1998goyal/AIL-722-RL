@@ -1,0 +1,18 @@
+{"time":"2024-10-21T14:01:46.956917741+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T14:01:46.956940541+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241021_140146-mbmavas8/logs/debug-core.log"}
+{"time":"2024-10-21T14:01:46.956978341+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T14:01:46.956981841+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241021_140146-mbmavas8/logs/debug-core.log"}
+{"time":"2024-10-21T14:01:46.998308542+05:30","level":"INFO","msg":"created new stream","id":"mbmavas8"}
+{"time":"2024-10-21T14:01:46.998366642+05:30","level":"INFO","msg":"stream: started","id":"mbmavas8"}
+{"time":"2024-10-21T14:01:46.998396142+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"mbmavas8"}}
+{"time":"2024-10-21T14:01:46.998433342+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mbmavas8"}}
+{"time":"2024-10-21T14:01:46.998447542+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"mbmavas8"}}
+{"time":"2024-10-21T14:01:47.004845643+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-21T14:01:47.005742643+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-21T14:01:47.618875566+05:30","level":"INFO","msg":"stream: closing","id":"mbmavas8"}
+{"time":"2024-10-21T14:01:47.618948366+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-21T14:01:47.619232366+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-21T14:01:47.619571366+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"mbmavas8"}}
+{"time":"2024-10-21T14:01:47.619592766+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mbmavas8"}}
+{"time":"2024-10-21T14:01:47.619722566+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"mbmavas8"}}
+{"time":"2024-10-21T14:01:47.619748166+05:30","level":"INFO","msg":"stream: closed","id":"mbmavas8"}

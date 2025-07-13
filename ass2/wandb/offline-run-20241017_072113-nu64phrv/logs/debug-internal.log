@@ -1,0 +1,18 @@
+{"time":"2024-10-17T07:21:13.878428933+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T07:21:13.878483933+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_072113-nu64phrv/logs/debug-core.log"}
+{"time":"2024-10-17T07:21:13.878599433+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T07:21:13.878614433+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_072113-nu64phrv/logs/debug-core.log"}
+{"time":"2024-10-17T07:21:13.966482446+05:30","level":"INFO","msg":"created new stream","id":"nu64phrv"}
+{"time":"2024-10-17T07:21:13.966582546+05:30","level":"INFO","msg":"stream: started","id":"nu64phrv"}
+{"time":"2024-10-17T07:21:13.966629746+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"nu64phrv"}}
+{"time":"2024-10-17T07:21:13.966714646+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"nu64phrv"}}
+{"time":"2024-10-17T07:21:13.966650946+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"nu64phrv"}}
+{"time":"2024-10-17T07:21:13.99457005+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-17T07:21:13.995918051+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-17T14:07:07.327862557+05:30","level":"INFO","msg":"stream: closing","id":"nu64phrv"}
+{"time":"2024-10-17T14:07:07.328104257+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-17T14:07:07.328750757+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-17T14:07:07.329431057+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"nu64phrv"}}
+{"time":"2024-10-17T14:07:07.329545057+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"nu64phrv"}}
+{"time":"2024-10-17T14:07:07.329566557+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"nu64phrv"}}
+{"time":"2024-10-17T14:07:07.329825557+05:30","level":"INFO","msg":"stream: closed","id":"nu64phrv"}

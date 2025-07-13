@@ -1,0 +1,39 @@
+{
+  "os": "Linux-3.10.0-1160.el7.x86_64-x86_64-with-glibc2.17",
+  "python": "3.9.20",
+  "startedAt": "2024-10-21T14:36:29.295466Z",
+  "cuda": "10.0.130",
+  "program": "/home/scai/mtech/aib232073/RL/ass2/p3/p3.2/dqn_1.py",
+  "codePath": "dqn_1.py",
+  "root": "/home/scai/mtech/aib232073/RL/ass2/p3/p3.2",
+  "host": "vsky014",
+  "username": "aib232073",
+  "executable": "/home/scai/mtech/aib232073/miniconda3/envs/dqn/bin/python",
+  "codePathLocal": "dqn_1.py",
+  "cpu_count": 40,
+  "cpu_count_logical": 40,
+  "gpu": "[Tesla V100-PCIE-32GB]",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "126290464768",
+      "used": "9963565056"
+    }
+  },
+  "memory": {
+    "total": "202298531840"
+  },
+  "cpu": {
+    "count": 40,
+    "countLogical": 40
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla V100-PCIE-32GB",
+      "memoryTotal": "34359738368",
+      "cudaCores": 5120,
+      "architecture": "Volta"
+    }
+  ],
+  "cudaVersion": "12.0"
+}

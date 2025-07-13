@@ -1,0 +1,11 @@
+{"time":"2024-10-16T17:46:45.565486371+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T17:46:45.565556471+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_174645-z52lihvj/logs/debug-core.log"}
+{"time":"2024-10-16T17:46:45.565674671+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T17:46:45.565695871+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_174645-z52lihvj/logs/debug-core.log"}
+{"time":"2024-10-16T17:46:45.645413666+05:30","level":"INFO","msg":"created new stream","id":"z52lihvj"}
+{"time":"2024-10-16T17:46:45.645493866+05:30","level":"INFO","msg":"stream: started","id":"z52lihvj"}
+{"time":"2024-10-16T17:46:45.645539066+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"z52lihvj"}}
+{"time":"2024-10-16T17:46:45.645610166+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"z52lihvj"}}
+{"time":"2024-10-16T17:46:45.645661866+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"z52lihvj"}}
+{"time":"2024-10-16T17:46:45.680651864+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T17:46:45.683084664+05:30","level":"INFO","msg":"Starting system monitor"}

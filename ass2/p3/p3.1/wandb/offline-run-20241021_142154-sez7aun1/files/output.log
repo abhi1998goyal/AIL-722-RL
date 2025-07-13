@@ -1,0 +1,31 @@
+State shape:  (8,)
+Number of actions:  4
+━━━> Episode 100	Average Score: -181.07   Epsilon:0.995 | Saved
+━━━> Episode 200	Average Score: -178.35   Epsilon:0.990 | Saved
+━━━> Episode 300	Average Score: -177.87   Epsilon:0.985 | Saved
+Episode 400	Average Score: -181.25  Epsilon:0.980
+━━━> Episode 500	Average Score: -159.74   Epsilon:0.975 | Saved
+Episode 600	Average Score: -165.15  Epsilon:0.970
+Episode 700	Average Score: -173.02  Epsilon:0.966
+Episode 800	Average Score: -165.77  Epsilon:0.961
+━━━> Episode 900	Average Score: -149.58   Epsilon:0.956 | Saved
+━━━> Episode 1000	Average Score: -132.14   Epsilon:0.951 | Saved
+Episode 1100	Average Score: -137.70  Epsilon:0.946
+Episode 1200	Average Score: -156.31  Epsilon:0.942
+━━━> Episode 1300	Average Score: -120.17   Epsilon:0.937 | Saved
+Traceback (most recent call last):
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/train.py", line 81, in <module>
+    main(args.config)
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/train.py", line 57, in main
+    scores = dqn(agent, env, TrainingConfigs)
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/dqn.py", line 37, in dqn
+    agent.batch_learn(experiences,TrainingConfigs['gamma'])
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/agent.py", line 201, in batch_learn
+    self.optimizer.step()
+  File "/home/scai/mtech/aib232073/miniconda3/envs/dqn/lib/python3.9/site-packages/torch/optim/optimizer.py", line 113, in wrapper
+    return func(*args, **kwargs)
+  File "/home/scai/mtech/aib232073/miniconda3/envs/dqn/lib/python3.9/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/scai/mtech/aib232073/miniconda3/envs/dqn/lib/python3.9/site-packages/torch/optim/adam.py", line 136, in step
+    state = self.state[p]
+KeyboardInterrupt

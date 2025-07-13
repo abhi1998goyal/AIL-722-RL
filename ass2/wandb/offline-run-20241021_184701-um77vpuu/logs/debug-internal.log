@@ -1,0 +1,18 @@
+{"time":"2024-10-21T18:47:01.356378742+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T18:47:01.356404842+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241021_184701-um77vpuu/logs/debug-core.log"}
+{"time":"2024-10-21T18:47:01.356461042+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T18:47:01.356466942+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241021_184701-um77vpuu/logs/debug-core.log"}
+{"time":"2024-10-21T18:47:01.396395836+05:30","level":"INFO","msg":"created new stream","id":"um77vpuu"}
+{"time":"2024-10-21T18:47:01.396458536+05:30","level":"INFO","msg":"stream: started","id":"um77vpuu"}
+{"time":"2024-10-21T18:47:01.396488736+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"um77vpuu"}}
+{"time":"2024-10-21T18:47:01.396517636+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"um77vpuu"}}
+{"time":"2024-10-21T18:47:01.396489136+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"um77vpuu"}}
+{"time":"2024-10-21T18:47:01.401870735+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-21T18:47:01.402387235+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-21T19:44:30.085220408+05:30","level":"INFO","msg":"stream: closing","id":"um77vpuu"}
+{"time":"2024-10-21T19:44:30.085552108+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-21T19:44:30.086978208+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-21T19:44:30.088765408+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"um77vpuu"}}
+{"time":"2024-10-21T19:44:30.088716008+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"um77vpuu"}}
+{"time":"2024-10-21T19:44:30.088597308+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"um77vpuu"}}
+{"time":"2024-10-21T19:44:30.089267908+05:30","level":"INFO","msg":"stream: closed","id":"um77vpuu"}

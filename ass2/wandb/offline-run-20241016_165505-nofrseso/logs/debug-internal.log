@@ -1,0 +1,18 @@
+{"time":"2024-10-16T16:55:05.411426415+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T16:55:05.411458615+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_165505-nofrseso/logs/debug-core.log"}
+{"time":"2024-10-16T16:55:05.411520215+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T16:55:05.411530615+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_165505-nofrseso/logs/debug-core.log"}
+{"time":"2024-10-16T16:55:05.461996015+05:30","level":"INFO","msg":"created new stream","id":"nofrseso"}
+{"time":"2024-10-16T16:55:05.462076515+05:30","level":"INFO","msg":"stream: started","id":"nofrseso"}
+{"time":"2024-10-16T16:55:05.462178315+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"nofrseso"}}
+{"time":"2024-10-16T16:55:05.462102215+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"nofrseso"}}
+{"time":"2024-10-16T16:55:05.462136715+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"nofrseso"}}
+{"time":"2024-10-16T16:55:05.467486615+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T16:55:05.468110115+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-16T16:59:16.989985646+05:30","level":"INFO","msg":"stream: closing","id":"nofrseso"}
+{"time":"2024-10-16T16:59:16.990064846+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-16T16:59:16.990308346+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-16T16:59:16.990826546+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"nofrseso"}}
+{"time":"2024-10-16T16:59:16.990883446+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"nofrseso"}}
+{"time":"2024-10-16T16:59:16.990900846+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"nofrseso"}}
+{"time":"2024-10-16T16:59:16.990948346+05:30","level":"INFO","msg":"stream: closed","id":"nofrseso"}

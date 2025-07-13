@@ -1,0 +1,547 @@
+2024-10-21 07:28:50 INFO open for scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/run-zokqhh0e.wandb
+2024-10-21 07:28:50 INFO watching files in: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files
+2024-10-21 07:28:50 INFO run started: zokqhh0e with start time 1729473338.249588
+2024-10-21 07:28:50 INFO saving file wandb-metadata.json with policy now
+2024-10-21 07:28:50 INFO saving file requirements.txt with policy now
+2024-10-21 07:28:50 INFO saving file wandb-metadata.json with policy now
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO saving file wandb-summary.json with policy end
+2024-10-21 07:28:51 INFO shutting down sender
+2024-10-21 07:28:51 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files/output.log
+2024-10-21 07:28:51 INFO file/dir created: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files/wandb-summary.json
+2024-10-21 07:28:52 INFO Uploaded file /tmp/tmpqgklya1fwandb/2gp0ikg9-requirements.txt
+2024-10-21 07:28:52 INFO Uploaded file /tmp/tmpqgklya1fwandb/tkch4fpi-wandb-metadata.json
+2024-10-21 07:28:52 INFO shutting down directory watcher
+2024-10-21 07:28:53 INFO Uploaded file /tmp/tmpqgklya1fwandb/1d589w9l-wandb-metadata.json
+2024-10-21 07:28:53 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files/output.log
+2024-10-21 07:28:53 INFO scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files
+2024-10-21 07:28:53 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files/output.log output.log
+2024-10-21 07:28:53 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files/config.yaml config.yaml
+2024-10-21 07:28:53 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files/requirements.txt requirements.txt
+2024-10-21 07:28:53 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files/wandb-summary.json wandb-summary.json
+2024-10-21 07:28:53 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files/wandb-metadata.json wandb-metadata.json
+2024-10-21 07:28:53 INFO shutting down file pusher
+2024-10-21 07:28:53 INFO waiting for file pusher
+2024-10-21 07:28:54 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files/wandb-summary.json
+2024-10-21 07:28:54 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files/config.yaml
+2024-10-21 07:28:54 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e/files/output.log
+2024-10-21 07:28:55 INFO file stream finish called
+2024-10-21 07:28:56 INFO file stream finish is done
+2024-10-21 13:37:54 INFO open for scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/run-7yspylrt.wandb
+2024-10-21 13:37:55 INFO watching files in: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files
+2024-10-21 13:37:55 INFO run started: 7yspylrt with start time 1729476616.204995
+2024-10-21 13:37:55 INFO saving file wandb-metadata.json with policy now
+2024-10-21 13:37:55 INFO saving file requirements.txt with policy now
+2024-10-21 13:37:55 INFO saving file wandb-metadata.json with policy now
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO saving file wandb-summary.json with policy end
+2024-10-21 13:37:55 INFO shutting down sender
+2024-10-21 13:37:56 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files/output.log
+2024-10-21 13:37:56 INFO file/dir created: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files/wandb-summary.json
+2024-10-21 13:37:56 INFO Uploaded file /tmp/tmpyd86n5orwandb/t3ec5659-requirements.txt
+2024-10-21 13:37:56 INFO Uploaded file /tmp/tmpyd86n5orwandb/3v1xgjs4-wandb-metadata.json
+2024-10-21 13:37:57 INFO Uploaded file /tmp/tmpyd86n5orwandb/2enk19k3-wandb-metadata.json
+2024-10-21 13:37:57 INFO shutting down directory watcher
+2024-10-21 13:37:58 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files/output.log
+2024-10-21 13:37:58 INFO scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files
+2024-10-21 13:37:58 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files/output.log output.log
+2024-10-21 13:37:58 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files/config.yaml config.yaml
+2024-10-21 13:37:58 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files/requirements.txt requirements.txt
+2024-10-21 13:37:58 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files/wandb-summary.json wandb-summary.json
+2024-10-21 13:37:58 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files/wandb-metadata.json wandb-metadata.json
+2024-10-21 13:37:58 INFO shutting down file pusher
+2024-10-21 13:37:58 INFO waiting for file pusher
+2024-10-21 13:37:58 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files/output.log
+2024-10-21 13:37:58 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files/config.yaml
+2024-10-21 13:37:59 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt/files/wandb-summary.json
+2024-10-21 13:37:59 INFO file stream finish called
+2024-10-21 13:38:02 INFO file stream finish is done
+2024-10-21 14:10:08 INFO open for scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/run-c4levyoi.wandb
+2024-10-21 14:10:08 INFO watching files in: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files
+2024-10-21 14:10:08 INFO run started: c4levyoi with start time 1729498637.727135
+2024-10-21 14:10:08 INFO saving file wandb-metadata.json with policy now
+2024-10-21 14:10:08 INFO saving file requirements.txt with policy now
+2024-10-21 14:10:08 INFO saving file wandb-metadata.json with policy now
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:09 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:09 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:09 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:09 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:09 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:09 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:09 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:09 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:10:09 INFO shutting down sender
+2024-10-21 14:10:09 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files/output.log
+2024-10-21 14:10:09 INFO file/dir created: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files/wandb-summary.json
+2024-10-21 14:10:10 INFO Uploaded file /tmp/tmp21dy1yarwandb/jf3afp0b-wandb-metadata.json
+2024-10-21 14:10:10 INFO Uploaded file /tmp/tmp21dy1yarwandb/vdz86dlj-requirements.txt
+2024-10-21 14:10:10 INFO Uploaded file /tmp/tmp21dy1yarwandb/dim76szg-wandb-metadata.json
+2024-10-21 14:10:10 INFO shutting down directory watcher
+2024-10-21 14:10:11 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files/output.log
+2024-10-21 14:10:11 INFO scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files
+2024-10-21 14:10:11 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files/output.log output.log
+2024-10-21 14:10:11 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files/config.yaml config.yaml
+2024-10-21 14:10:11 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files/requirements.txt requirements.txt
+2024-10-21 14:10:11 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files/wandb-summary.json wandb-summary.json
+2024-10-21 14:10:11 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files/wandb-metadata.json wandb-metadata.json
+2024-10-21 14:10:11 INFO shutting down file pusher
+2024-10-21 14:10:11 INFO waiting for file pusher
+2024-10-21 14:10:12 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files/config.yaml
+2024-10-21 14:10:12 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files/output.log
+2024-10-21 14:10:12 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/files/wandb-summary.json
+2024-10-21 14:10:13 INFO file stream finish called
+2024-10-21 14:10:14 INFO file stream finish is done
+2024-10-21 14:20:31 INFO open for scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/run-w081mus7.wandb
+2024-10-21 14:20:32 INFO watching files in: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files
+2024-10-21 14:20:32 INFO run started: w081mus7 with start time 1729500095.683331
+2024-10-21 14:20:32 INFO saving file wandb-metadata.json with policy now
+2024-10-21 14:20:32 INFO saving file requirements.txt with policy now
+2024-10-21 14:20:32 INFO saving file wandb-metadata.json with policy now
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:20:32 INFO shutting down sender
+2024-10-21 14:20:33 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files/output.log
+2024-10-21 14:20:33 INFO file/dir created: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files/wandb-summary.json
+2024-10-21 14:20:33 INFO Uploaded file /tmp/tmp2m8p06_pwandb/00rp8318-requirements.txt
+2024-10-21 14:20:33 INFO Uploaded file /tmp/tmp2m8p06_pwandb/p7bpbpvx-wandb-metadata.json
+2024-10-21 14:20:34 INFO Uploaded file /tmp/tmp2m8p06_pwandb/1w271ywp-wandb-metadata.json
+2024-10-21 14:20:34 INFO shutting down directory watcher
+2024-10-21 14:20:35 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files/output.log
+2024-10-21 14:20:35 INFO scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files
+2024-10-21 14:20:35 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files/output.log output.log
+2024-10-21 14:20:35 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files/config.yaml config.yaml
+2024-10-21 14:20:35 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files/requirements.txt requirements.txt
+2024-10-21 14:20:35 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files/wandb-summary.json wandb-summary.json
+2024-10-21 14:20:35 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files/wandb-metadata.json wandb-metadata.json
+2024-10-21 14:20:35 INFO shutting down file pusher
+2024-10-21 14:20:35 INFO waiting for file pusher
+2024-10-21 14:20:36 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files/output.log
+2024-10-21 14:20:36 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files/config.yaml
+2024-10-21 14:20:36 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_141135-w081mus7/files/wandb-summary.json
+2024-10-21 14:20:37 INFO file stream finish called
+2024-10-21 14:20:38 INFO file stream finish is done
+2024-10-21 14:33:52 INFO open for scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/run-sez7aun1.wandb
+2024-10-21 14:33:53 INFO watching files in: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files
+2024-10-21 14:33:53 INFO run started: sez7aun1 with start time 1729500714.959921
+2024-10-21 14:33:53 INFO saving file wandb-metadata.json with policy now
+2024-10-21 14:33:53 INFO saving file requirements.txt with policy now
+2024-10-21 14:33:53 INFO saving file wandb-metadata.json with policy now
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:33:53 INFO shutting down sender
+2024-10-21 14:33:54 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files/output.log
+2024-10-21 14:33:54 INFO file/dir created: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files/wandb-summary.json
+2024-10-21 14:33:54 INFO Uploaded file /tmp/tmpqxz4q1_1wandb/dx11hsuf-requirements.txt
+2024-10-21 14:33:54 INFO Uploaded file /tmp/tmpqxz4q1_1wandb/hj3nxokr-wandb-metadata.json
+2024-10-21 14:33:55 INFO Uploaded file /tmp/tmpqxz4q1_1wandb/n11u18gj-wandb-metadata.json
+2024-10-21 14:33:55 INFO shutting down directory watcher
+2024-10-21 14:33:56 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files/output.log
+2024-10-21 14:33:56 INFO scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files
+2024-10-21 14:33:56 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files/output.log output.log
+2024-10-21 14:33:56 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files/config.yaml config.yaml
+2024-10-21 14:33:56 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files/requirements.txt requirements.txt
+2024-10-21 14:33:56 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files/wandb-summary.json wandb-summary.json
+2024-10-21 14:33:56 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files/wandb-metadata.json wandb-metadata.json
+2024-10-21 14:33:56 INFO shutting down file pusher
+2024-10-21 14:33:56 INFO waiting for file pusher
+2024-10-21 14:33:57 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files/config.yaml
+2024-10-21 14:33:57 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files/output.log
+2024-10-21 14:33:57 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/files/wandb-summary.json
+2024-10-21 14:33:58 INFO file stream finish called
+2024-10-21 14:33:59 INFO file stream finish is done
+2024-10-21 14:34:20 INFO open for scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/run-bgltur2z.wandb
+2024-10-21 14:34:21 INFO watching files in: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files
+2024-10-21 14:34:21 INFO run started: bgltur2z with start time 1729501008.215253
+2024-10-21 14:34:21 INFO saving file wandb-metadata.json with policy now
+2024-10-21 14:34:21 INFO saving file requirements.txt with policy now
+2024-10-21 14:34:21 INFO saving file wandb-metadata.json with policy now
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO saving file wandb-summary.json with policy end
+2024-10-21 14:34:21 INFO shutting down sender
+2024-10-21 14:34:22 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files/output.log
+2024-10-21 14:34:22 INFO file/dir created: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files/wandb-summary.json
+2024-10-21 14:34:22 INFO Uploaded file /tmp/tmpn1r83_uwwandb/gvhpzaws-wandb-metadata.json
+2024-10-21 14:34:22 INFO Uploaded file /tmp/tmpn1r83_uwwandb/dbb8mmh4-requirements.txt
+2024-10-21 14:34:23 INFO shutting down directory watcher
+2024-10-21 14:34:23 INFO Uploaded file /tmp/tmpn1r83_uwwandb/og1395wl-wandb-metadata.json
+2024-10-21 14:34:24 INFO file/dir modified: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files/output.log
+2024-10-21 14:34:24 INFO scan: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files
+2024-10-21 14:34:24 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files/output.log output.log
+2024-10-21 14:34:24 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files/config.yaml config.yaml
+2024-10-21 14:34:24 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files/requirements.txt requirements.txt
+2024-10-21 14:34:24 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files/wandb-summary.json wandb-summary.json
+2024-10-21 14:34:24 INFO scan save: /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files/wandb-metadata.json wandb-metadata.json
+2024-10-21 14:34:24 INFO shutting down file pusher
+2024-10-21 14:34:24 INFO waiting for file pusher
+2024-10-21 14:34:25 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files/config.yaml
+2024-10-21 14:34:25 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files/wandb-summary.json
+2024-10-21 14:34:25 INFO Uploaded file /home/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/files/output.log
+2024-10-21 14:34:26 INFO file stream finish called
+2024-10-21 14:34:27 INFO file stream finish is done
+2024-10-21 18:23:38 INFO open for scan: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/run-ydq1ecny.wandb
+2024-10-21 18:23:39 INFO watching files in: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files
+2024-10-21 18:23:39 INFO run started: ydq1ecny with start time 1729507917.35358
+2024-10-21 18:23:39 INFO saving file wandb-metadata.json with policy now
+2024-10-21 18:23:39 INFO saving file requirements.txt with policy now
+2024-10-21 18:23:39 INFO saving file wandb-metadata.json with policy now
+2024-10-21 18:23:40 INFO saving file wandb-summary.json with policy end
+2024-10-21 18:23:40 INFO saving file wandb-summary.json with policy end
+2024-10-21 18:23:40 INFO saving file wandb-summary.json with policy end
+2024-10-21 18:23:40 INFO saving file wandb-summary.json with policy end
+2024-10-21 18:23:40 INFO saving file wandb-summary.json with policy end
+2024-10-21 18:23:40 INFO saving file wandb-summary.json with policy end
+2024-10-21 18:23:40 INFO saving file wandb-summary.json with policy end
+2024-10-21 18:23:40 INFO saving file wandb-summary.json with policy end
+2024-10-21 18:23:40 INFO saving file wandb-summary.json with policy end
+2024-10-21 18:23:40 INFO shutting down sender
+2024-10-21 18:23:40 INFO file/dir modified: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/output.log
+2024-10-21 18:23:40 INFO file/dir created: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/wandb-summary.json
+2024-10-21 18:23:41 INFO Uploaded file /tmp/tmpaslupc88wandb/cpz1wjeq-wandb-metadata.json
+2024-10-21 18:23:41 INFO Uploaded file /tmp/tmpaslupc88wandb/sxw0cds6-requirements.txt
+2024-10-21 18:23:42 INFO shutting down directory watcher
+2024-10-21 18:23:42 INFO Uploaded file /tmp/tmpaslupc88wandb/hkzpn7pk-wandb-metadata.json
+2024-10-21 18:23:42 INFO file/dir modified: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/output.log
+2024-10-21 18:23:42 INFO scan: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files
+2024-10-21 18:23:42 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/output.log output.log
+2024-10-21 18:23:42 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/config.yaml config.yaml
+2024-10-21 18:23:42 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/requirements.txt requirements.txt
+2024-10-21 18:23:42 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/wandb-summary.json wandb-summary.json
+2024-10-21 18:23:42 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/wandb-metadata.json wandb-metadata.json
+2024-10-21 18:23:42 INFO shutting down file pusher
+2024-10-21 18:23:42 INFO waiting for file pusher
+2024-10-21 18:23:43 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/output.log
+2024-10-21 18:23:43 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/config.yaml
+2024-10-21 18:23:43 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/wandb-summary.json
+2024-10-21 18:23:44 INFO file stream finish called
+2024-10-21 18:23:45 INFO file stream finish is done
+2024-10-21 19:30:39 INFO open for scan: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/run-ydq1ecny.wandb
+2024-10-21 19:30:39 INFO watching files in: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files
+2024-10-21 19:30:39 INFO run started: ydq1ecny with start time 1729507917.35358
+2024-10-21 19:30:39 INFO saving file wandb-metadata.json with policy now
+2024-10-21 19:30:39 INFO saving file requirements.txt with policy now
+2024-10-21 19:30:39 INFO saving file wandb-metadata.json with policy now
+2024-10-21 19:30:39 INFO saving file wandb-summary.json with policy end
+2024-10-21 19:30:39 INFO saving file wandb-summary.json with policy end
+2024-10-21 19:30:39 INFO saving file wandb-summary.json with policy end
+2024-10-21 19:30:39 INFO saving file wandb-summary.json with policy end
+2024-10-21 19:30:39 INFO saving file wandb-summary.json with policy end
+2024-10-21 19:30:39 INFO saving file wandb-summary.json with policy end
+2024-10-21 19:30:39 INFO saving file wandb-summary.json with policy end
+2024-10-21 19:30:39 INFO saving file wandb-summary.json with policy end
+2024-10-21 19:30:39 INFO saving file wandb-summary.json with policy end
+2024-10-21 19:30:39 INFO shutting down sender
+2024-10-21 19:30:40 INFO file/dir modified: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/output.log
+2024-10-21 19:30:40 INFO file/dir modified: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/wandb-summary.json
+2024-10-21 19:30:41 INFO Uploaded file /tmp/tmphsz_m5aawandb/4zyf6obi-wandb-metadata.json
+2024-10-21 19:30:41 INFO Uploaded file /tmp/tmphsz_m5aawandb/nfs6r387-requirements.txt
+2024-10-21 19:30:41 INFO Uploaded file /tmp/tmphsz_m5aawandb/kfbltwqj-wandb-metadata.json
+2024-10-21 19:30:41 INFO shutting down directory watcher
+2024-10-21 19:30:42 INFO file/dir modified: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/output.log
+2024-10-21 19:30:42 INFO scan: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files
+2024-10-21 19:30:42 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/output.log output.log
+2024-10-21 19:30:42 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/config.yaml config.yaml
+2024-10-21 19:30:42 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/requirements.txt requirements.txt
+2024-10-21 19:30:42 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/wandb-summary.json wandb-summary.json
+2024-10-21 19:30:42 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/wandb-metadata.json wandb-metadata.json
+2024-10-21 19:30:42 INFO shutting down file pusher
+2024-10-21 19:30:42 INFO waiting for file pusher
+2024-10-21 19:30:43 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/output.log
+2024-10-21 19:30:43 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/config.yaml
+2024-10-21 19:30:43 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/files/wandb-summary.json
+2024-10-21 19:30:44 INFO file stream finish called
+2024-10-21 19:30:45 INFO file stream finish is done
+2024-10-21 19:36:57 INFO open for scan: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_183602-sohdrjo0/run-sohdrjo0.wandb
+2024-10-21 19:36:57 INFO watching files in: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_183602-sohdrjo0/files
+2024-10-21 19:36:57 INFO run started: sohdrjo0 with start time 1729515962.260711
+2024-10-21 19:36:57 INFO saving file wandb-metadata.json with policy now
+2024-10-21 19:36:57 INFO saving file requirements.txt with policy now
+2024-10-21 19:36:57 INFO saving file wandb-metadata.json with policy now
+2024-10-21 19:36:57 INFO shutting down sender
+2024-10-21 19:36:58 INFO file/dir modified: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_183602-sohdrjo0/files/output.log
+2024-10-21 19:36:58 INFO Uploaded file /tmp/tmpfcdtqxprwandb/h74a4jzc-wandb-metadata.json
+2024-10-21 19:36:58 INFO Uploaded file /tmp/tmpfcdtqxprwandb/g3j848h5-requirements.txt
+2024-10-21 19:36:59 INFO Uploaded file /tmp/tmpfcdtqxprwandb/kt074wos-wandb-metadata.json
+2024-10-21 19:36:59 INFO shutting down directory watcher
+2024-10-21 19:37:00 INFO file/dir modified: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_183602-sohdrjo0/files/output.log
+2024-10-21 19:37:00 INFO scan: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_183602-sohdrjo0/files
+2024-10-21 19:37:00 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_183602-sohdrjo0/files/output.log output.log
+2024-10-21 19:37:00 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_183602-sohdrjo0/files/config.yaml config.yaml
+2024-10-21 19:37:00 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_183602-sohdrjo0/files/requirements.txt requirements.txt
+2024-10-21 19:37:00 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_183602-sohdrjo0/files/wandb-metadata.json wandb-metadata.json
+2024-10-21 19:37:00 INFO shutting down file pusher
+2024-10-21 19:37:00 INFO waiting for file pusher
+2024-10-21 19:37:01 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_183602-sohdrjo0/files/config.yaml
+2024-10-21 19:37:01 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_183602-sohdrjo0/files/output.log
+2024-10-21 19:37:01 INFO file stream finish called
+2024-10-21 19:37:03 INFO file stream finish is done
+2024-10-21 21:13:16 INFO open for scan: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/run-59td4rdz.wandb
+2024-10-21 21:13:17 INFO watching files in: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files
+2024-10-21 21:13:17 INFO run started: 59td4rdz with start time 1729521389.295466
+2024-10-21 21:13:17 INFO saving file wandb-metadata.json with policy now
+2024-10-21 21:13:17 INFO saving file requirements.txt with policy now
+2024-10-21 21:13:17 INFO saving file wandb-metadata.json with policy now
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO saving file wandb-summary.json with policy end
+2024-10-21 21:13:17 INFO shutting down sender
+2024-10-21 21:13:17 WARNING Terminal output too large. Logging without processing.
+2024-10-21 21:13:18 INFO file/dir modified: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files/output.log
+2024-10-21 21:13:18 INFO file/dir created: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files/wandb-summary.json
+2024-10-21 21:13:18 INFO Uploaded file /tmp/tmpkwc567ocwandb/nkxjm3fx-wandb-metadata.json
+2024-10-21 21:13:18 INFO Uploaded file /tmp/tmpkwc567ocwandb/xvbgpk2i-requirements.txt
+2024-10-21 21:13:19 INFO Uploaded file /tmp/tmpkwc567ocwandb/r4p0bznj-wandb-metadata.json
+2024-10-21 21:13:19 INFO shutting down directory watcher
+2024-10-21 21:13:20 INFO scan: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files
+2024-10-21 21:13:20 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files/output.log output.log
+2024-10-21 21:13:20 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files/config.yaml config.yaml
+2024-10-21 21:13:20 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files/requirements.txt requirements.txt
+2024-10-21 21:13:20 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files/wandb-summary.json wandb-summary.json
+2024-10-21 21:13:20 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files/wandb-metadata.json wandb-metadata.json
+2024-10-21 21:13:20 INFO shutting down file pusher
+2024-10-21 21:13:20 INFO waiting for file pusher
+2024-10-21 21:13:21 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files/config.yaml
+2024-10-21 21:13:21 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files/output.log
+2024-10-21 21:13:21 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_200629-59td4rdz/files/wandb-summary.json
+2024-10-21 21:13:21 INFO file stream finish called
+2024-10-21 21:13:24 INFO file stream finish is done
+2024-10-21 22:42:34 INFO open for scan: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/run-ugtgm9lz.wandb
+2024-10-21 22:42:36 INFO watching files in: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files
+2024-10-21 22:42:36 INFO run started: ugtgm9lz with start time 1729527944.295193
+2024-10-21 22:42:36 INFO saving file wandb-metadata.json with policy now
+2024-10-21 22:42:36 INFO saving file requirements.txt with policy now
+2024-10-21 22:42:36 INFO saving file wandb-metadata.json with policy now
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO saving file wandb-summary.json with policy end
+2024-10-21 22:42:36 INFO shutting down sender
+2024-10-21 22:42:37 WARNING Terminal output too large. Logging without processing.
+2024-10-21 22:42:37 INFO file/dir modified: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files/output.log
+2024-10-21 22:42:37 INFO file/dir created: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files/wandb-summary.json
+2024-10-21 22:42:37 INFO Uploaded file /tmp/tmpd6ai_ztfwandb/ceck798y-requirements.txt
+2024-10-21 22:42:38 INFO shutting down directory watcher
+2024-10-21 22:42:38 INFO Uploaded file /tmp/tmpd6ai_ztfwandb/7gx8vfzs-wandb-metadata.json
+2024-10-21 22:42:39 INFO scan: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files
+2024-10-21 22:42:39 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files/output.log output.log
+2024-10-21 22:42:39 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files/config.yaml config.yaml
+2024-10-21 22:42:39 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files/requirements.txt requirements.txt
+2024-10-21 22:42:39 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files/wandb-summary.json wandb-summary.json
+2024-10-21 22:42:39 INFO scan save: /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files/wandb-metadata.json wandb-metadata.json
+2024-10-21 22:42:39 INFO shutting down file pusher
+2024-10-21 22:42:39 INFO waiting for file pusher
+2024-10-21 22:42:39 INFO Uploaded file /tmp/tmpd6ai_ztfwandb/vd4zpekv-wandb-metadata.json
+2024-10-21 22:42:40 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files/output.log
+2024-10-21 22:42:40 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files/config.yaml
+2024-10-21 22:42:40 INFO Uploaded file /home/RL/ass2/p3/p3.2/wandb/offline-run-20241021_215544-ugtgm9lz/files/wandb-summary.json
+2024-10-21 22:42:41 INFO file stream finish called
+2024-10-21 22:42:43 INFO file stream finish is done

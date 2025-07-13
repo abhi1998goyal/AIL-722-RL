@@ -1,0 +1,7 @@
+INFO:root:Saved Checkpoint!
+INFO:root:Saved Checkpoint!
+INFO:root:loss: 0.003871284797370508  validation reward: -3.404499999999999 Policy rewards:-4.007199999999999 eps: 0.005 
+INFO:root:Saved Checkpoint!
+INFO:root:loss: 0.0008673354166586296  validation reward: -3.325199999999997 Policy rewards:-2.5912999999999973 eps: 0.005 
+INFO:root:Saved Checkpoint!
+INFO:root:loss: 0.0040123276198214715  validation reward: -4.368599999999998 Policy rewards:-3.723199999999999 eps: 0.005 

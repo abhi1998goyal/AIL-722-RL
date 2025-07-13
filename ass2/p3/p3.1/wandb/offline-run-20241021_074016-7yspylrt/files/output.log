@@ -1,0 +1,19 @@
+State shape:  (8,)
+Number of actions:  4
+━━━> Episode 100	Average Score: -169.81   Epsilon:0.900 | Saved
+━━━> Episode 200	Average Score: -142.85   Epsilon:0.810 | Saved
+━━━> Episode 300	Average Score: -133.85   Epsilon:0.729 | Saved
+━━━> Episode 400	Average Score: -102.43   Epsilon:0.656 | Saved
+━━━> Episode 500	Average Score: -101.75   Epsilon:0.590 | Saved
+━━━> Episode 600	Average Score: -93.70   Epsilon:0.531 | Saved
+━━━> Episode 700	Average Score: -62.09   Epsilon:0.478 | Saved
+━━━> Episode 800	Average Score: -35.57   Epsilon:0.430 | Saved
+━━━> Episode 900	Average Score: 5.95   Epsilon:0.387 | Saved
+━━━> Episode 1000	Average Score: 48.52   Epsilon:0.349 | Saved
+━━━> Episode 1100	Average Score: 59.41   Epsilon:0.314 | Saved
+━━━> Episode 1200	Average Score: 70.78   Epsilon:0.282 | Saved
+━━━> Episode 1300	Average Score: 75.95   Epsilon:0.254 | Saved
+━━━> Episode 1400	Average Score: 132.73   Epsilon:0.229 | Saved
+━━━> Episode 1500	Average Score: 155.15   Epsilon:0.206 | Saved
+━━━━━━━━━━━━━━━ SOLVED ━━━━━━━━━━━━━━━
+Environment solved in 1467 episodes!	Average Score: 155.15

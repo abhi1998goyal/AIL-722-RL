@@ -1,0 +1,7 @@
+  0%|          | 0/49999 [00:00<?, ?it/s]/home/scai/mtech/aib232073/RL/ass2/p3/p3.2/dqn_1.py:195: DeprecationWarning: In future, it will be an error for 'np.bool_' scalars to be interpreted as an index
+  states = torch.tensor(states).float().to(self.device)
+/home/scai/mtech/aib232073/RL/ass2/p3/p3.2/dqn_1.py:195: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at  /opt/conda/conda-bld/pytorch_1659484809662/work/torch/csrc/utils/tensor_new.cpp:201.)
+  states = torch.tensor(states).float().to(self.device)
+/home/scai/mtech/aib232073/RL/ass2/p3/p3.2/dqn_1.py:197: DeprecationWarning: In future, it will be an error for 'np.bool_' scalars to be interpreted as an index
+  next_states = torch.tensor(next_states).float().to(self.device)
+  0%|          | 242/49999 [04:25<59:04:11,  4.27s/it]

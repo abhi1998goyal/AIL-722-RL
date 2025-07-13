@@ -1,0 +1,18 @@
+{"time":"2024-10-20T00:32:26.946459115+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-20T00:32:26.946524915+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241020_003226-pgp2259a/logs/debug-core.log"}
+{"time":"2024-10-20T00:32:26.946660315+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-20T00:32:26.946677815+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241020_003226-pgp2259a/logs/debug-core.log"}
+{"time":"2024-10-20T00:32:27.058558137+05:30","level":"INFO","msg":"created new stream","id":"pgp2259a"}
+{"time":"2024-10-20T00:32:27.058661237+05:30","level":"INFO","msg":"stream: started","id":"pgp2259a"}
+{"time":"2024-10-20T00:32:27.058881137+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"pgp2259a"}}
+{"time":"2024-10-20T00:32:27.058744137+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"pgp2259a"}}
+{"time":"2024-10-20T00:32:27.058764837+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"pgp2259a"}}
+{"time":"2024-10-20T00:32:27.07163844+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-20T00:32:27.07256214+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-20T00:32:32.794368591+05:30","level":"INFO","msg":"stream: closing","id":"pgp2259a"}
+{"time":"2024-10-20T00:32:32.794834691+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-20T00:32:32.795153592+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-20T00:32:32.796152493+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"pgp2259a"}}
+{"time":"2024-10-20T00:32:32.796259393+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"pgp2259a"}}
+{"time":"2024-10-20T00:32:32.796297193+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"pgp2259a"}}
+{"time":"2024-10-20T00:32:32.796695893+05:30","level":"INFO","msg":"stream: closed","id":"pgp2259a"}

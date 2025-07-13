@@ -1,0 +1,18 @@
+{"time":"2024-10-20T01:22:13.541704613+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-20T01:22:13.541735113+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241020_012213-taf00dzb/logs/debug-core.log"}
+{"time":"2024-10-20T01:22:13.541819313+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-20T01:22:13.541828213+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241020_012213-taf00dzb/logs/debug-core.log"}
+{"time":"2024-10-20T01:22:13.638093285+05:30","level":"INFO","msg":"created new stream","id":"taf00dzb"}
+{"time":"2024-10-20T01:22:13.638192285+05:30","level":"INFO","msg":"stream: started","id":"taf00dzb"}
+{"time":"2024-10-20T01:22:13.638247685+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"taf00dzb"}}
+{"time":"2024-10-20T01:22:13.638313285+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"taf00dzb"}}
+{"time":"2024-10-20T01:22:13.638391185+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"taf00dzb"}}
+{"time":"2024-10-20T01:22:13.646700582+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-20T01:22:13.647332382+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-20T01:23:10.082872968+05:30","level":"INFO","msg":"stream: closing","id":"taf00dzb"}
+{"time":"2024-10-20T01:23:10.083055868+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-20T01:23:10.083806768+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-20T01:23:10.084819268+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"taf00dzb"}}
+{"time":"2024-10-20T01:23:10.085332168+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"taf00dzb"}}
+{"time":"2024-10-20T01:23:10.085407468+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"taf00dzb"}}
+{"time":"2024-10-20T01:23:10.086978168+05:30","level":"INFO","msg":"stream: closed","id":"taf00dzb"}

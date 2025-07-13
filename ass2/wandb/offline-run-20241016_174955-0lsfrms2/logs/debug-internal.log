@@ -1,0 +1,11 @@
+{"time":"2024-10-16T17:49:55.362599628+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T17:49:55.362645928+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_174955-0lsfrms2/logs/debug-core.log"}
+{"time":"2024-10-16T17:49:55.362807028+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T17:49:55.362824828+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_174955-0lsfrms2/logs/debug-core.log"}
+{"time":"2024-10-16T17:49:55.427725543+05:30","level":"INFO","msg":"created new stream","id":"0lsfrms2"}
+{"time":"2024-10-16T17:49:55.427804443+05:30","level":"INFO","msg":"stream: started","id":"0lsfrms2"}
+{"time":"2024-10-16T17:49:55.427849443+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"0lsfrms2"}}
+{"time":"2024-10-16T17:49:55.427895943+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"0lsfrms2"}}
+{"time":"2024-10-16T17:49:55.427961543+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"0lsfrms2"}}
+{"time":"2024-10-16T17:49:55.450653048+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T17:49:55.451944949+05:30","level":"INFO","msg":"Starting system monitor"}

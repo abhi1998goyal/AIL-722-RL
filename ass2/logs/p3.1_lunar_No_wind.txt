@@ -1,0 +1,103 @@
+$ /home/scai/mtech/aib232073/miniconda3/envs/dqn/bin/python /home/scai/mtech/aib232073/RL/ass2/p3/p3.1/train.py
+wandb: Using wandb-core as the SDK backend. Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.18.1
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+State shape:  (8,)
+Number of actions:  4
+Saved Checkpoint at /home/scai/mtech/aib232073/RL/ass2/saved_model/lunar_checkpoint/ckpt.pth!
+━━━> Episode 100        Average Score: -175.51   Epsilon:0.606 | Saved
+Saved Checkpoint at /home/scai/mtech/aib232073/RL/ass2/saved_model/lunar_checkpoint/ckpt.pth!
+━━━> Episode 200        Average Score: -94.41   Epsilon:0.367 | Saved
+Saved Checkpoint at /home/scai/mtech/aib232073/RL/ass2/saved_model/lunar_checkpoint/ckpt.pth!
+━━━> Episode 300        Average Score: -51.42   Epsilon:0.222 | Saved
+Saved Checkpoint at /home/scai/mtech/aib232073/RL/ass2/saved_model/lunar_checkpoint/ckpt.pth!
+━━━> Episode 400        Average Score: 91.31   Epsilon:0.135 | Saved
+Saved Checkpoint at /home/scai/mtech/aib232073/RL/ass2/saved_model/lunar_checkpoint/ckpt.pth!
+━━━> Episode 500        Average Score: 246.80   Epsilon:0.082 | Saved
+Episode 600     Average Score: 203.58  Epsilon:0.049
+
+
+**********0.85 decay **********
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+State shape:  (8,)
+Number of actions:  4
+
+━━━> Episode 100        Average Score: -174.01   Epsilon:0.850 | Saved
+━━━> Episode 200        Average Score: -144.65   Epsilon:0.722 | Saved
+━━━> Episode 300        Average Score: -116.05   Epsilon:0.614 | Saved
+━━━> Episode 400        Average Score: -92.58   Epsilon:0.522 | Saved
+━━━> Episode 500        Average Score: -67.49   Epsilon:0.444 | Saved
+
+━━━> Episode 600        Average Score: -19.93   Epsilon:0.377 | Saved
+━━━> Episode 700        Average Score: 17.06   Epsilon:0.321 | Saved
+━━━> Episode 800        Average Score: 86.66   Epsilon:0.272 | Saved
+━━━> Episode 900        Average Score: 130.73   Epsilon:0.232 | Saved
+━━━> Episode 1000       Average Score: 164.91   Epsilon:0.197 | Saved
+━━━> Episode 1100       Average Score: 173.38   Epsilon:0.167 | Saved
+Episode 1200    Average Score: 172.90  Epsilon:0.142
+
+━━━━━━━━━━━━━━━ SOLVED ━━━━━━━━━━━━━━━
+
+Environment solved in 1158 episodes!    Average Score: 172.90
+wandb:                                                                                
+wandb: 
+wandb: Run history:
+wandb: Episode ▁▂▂▃▄▄▅▅▆▇▇█
+wandb: Epsilon █▇▆▅▄▃▃▂▂▂▁▁
+wandb:  Reward ▁▂▂▃▃▄▅▆▇███
+wandb: 
+wandb: Run summary:
+wandb: Episode 1200
+wandb: Epsilon 0.14224
+wandb:  Reward 172.90229
+wandb: 
+wandb: You can sync this run to the cloud by running:
+wandb: wandb sync /home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_064538-zokqhh0e
+
+
+*************decy 0.9********
+$ /home/scai/mtech/aib232073/miniconda3/envs/dqn/bin/python /home/scai/mtech/aib232073/RL/ass2/p3/p3.1/train.py
+wandb: Using wandb-core as the SDK backend. Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.18.1
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+State shape:  (8,)
+Number of actions:  4
+━━━> Episode 100        Average Score: -169.81   Epsilon:0.900 | Saved
+━━━> Episode 200        Average Score: -142.85   Epsilon:0.810 | Saved
+━━━> Episode 300        Average Score: -133.85   Epsilon:0.729 | Saved
+━━━> Episode 400        Average Score: -102.43   Epsilon:0.656 | Saved
+━━━> Episode 500        Average Score: -101.75   Epsilon:0.590 | Saved
+━━━> Episode 600        Average Score: -93.70   Epsilon:0.531 | Saved
+━━━> Episode 700        Average Score: -62.09   Epsilon:0.478 | Saved
+━━━> Episode 800        Average Score: -35.57   Epsilon:0.430 | Saved
+━━━> Episode 900        Average Score: 5.95   Epsilon:0.387 | Saved
+━━━> Episode 1000       Average Score: 48.52   Epsilon:0.349 | Saved
+━━━> Episode 1100       Average Score: 59.41   Epsilon:0.314 | Saved
+━━━> Episode 1200       Average Score: 70.78   Epsilon:0.282 | Saved
+━━━> Episode 1300       Average Score: 75.95   Epsilon:0.254 | Saved
+━━━> Episode 1400       Average Score: 132.73   Epsilon:0.229 | Saved
+━━━> Episode 1500       Average Score: 155.15   Epsilon:0.206 | Saved
+
+━━━━━━━━━━━━━━━ SOLVED ━━━━━━━━━━━━━━━
+
+Environment solved in 1467 episodes!    Average Score: 155.15
+wandb:                                                                                
+wandb: 
+wandb: Run history:
+wandb: Episode ▁▁▂▃▃▃▄▅▅▅▆▇▇▇█
+wandb: Epsilon █▇▆▆▅▄▄▃▃▂▂▂▁▁▁
+wandb:  Reward ▁▂▂▂▂▃▃▄▅▆▆▆▆██
+wandb: 
+wandb: Run summary:
+wandb: Episode 1500
+wandb: Epsilon 0.20589
+wandb:  Reward 155.14554
+wandb: 
+wandb: You can sync this run to the cloud by running:
+wandb: wandb sync /home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_074016-7yspylrt
+wandb: Find logs at: ./wandb/offline-run-20241021_074016-7yspylrt/logs
+
+
+

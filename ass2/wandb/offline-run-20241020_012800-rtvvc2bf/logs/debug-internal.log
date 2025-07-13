@@ -1,0 +1,18 @@
+{"time":"2024-10-20T01:28:00.505850805+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-20T01:28:00.505879705+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241020_012800-rtvvc2bf/logs/debug-core.log"}
+{"time":"2024-10-20T01:28:00.505936305+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-20T01:28:00.505943705+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241020_012800-rtvvc2bf/logs/debug-core.log"}
+{"time":"2024-10-20T01:28:00.602719533+05:30","level":"INFO","msg":"created new stream","id":"rtvvc2bf"}
+{"time":"2024-10-20T01:28:00.602816433+05:30","level":"INFO","msg":"stream: started","id":"rtvvc2bf"}
+{"time":"2024-10-20T01:28:00.602902333+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"rtvvc2bf"}}
+{"time":"2024-10-20T01:28:00.603054433+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"rtvvc2bf"}}
+{"time":"2024-10-20T01:28:00.602903233+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"rtvvc2bf"}}
+{"time":"2024-10-20T01:28:00.610084835+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-20T01:28:00.610828335+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-20T01:29:38.250297776+05:30","level":"INFO","msg":"stream: closing","id":"rtvvc2bf"}
+{"time":"2024-10-20T01:29:38.250522676+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-20T01:29:38.250805676+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-20T01:29:38.251136276+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"rtvvc2bf"}}
+{"time":"2024-10-20T01:29:38.251163076+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"rtvvc2bf"}}
+{"time":"2024-10-20T01:29:38.251282376+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"rtvvc2bf"}}
+{"time":"2024-10-20T01:29:38.251332476+05:30","level":"INFO","msg":"stream: closed","id":"rtvvc2bf"}

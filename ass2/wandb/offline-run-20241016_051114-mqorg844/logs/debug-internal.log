@@ -1,0 +1,18 @@
+{"time":"2024-10-16T05:11:14.413908419+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T05:11:14.413933019+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_051114-mqorg844/logs/debug-core.log"}
+{"time":"2024-10-16T05:11:14.414011119+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T05:11:14.414021119+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_051114-mqorg844/logs/debug-core.log"}
+{"time":"2024-10-16T05:11:14.470736418+05:30","level":"INFO","msg":"created new stream","id":"mqorg844"}
+{"time":"2024-10-16T05:11:14.470817018+05:30","level":"INFO","msg":"stream: started","id":"mqorg844"}
+{"time":"2024-10-16T05:11:14.470855318+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"mqorg844"}}
+{"time":"2024-10-16T05:11:14.470864718+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mqorg844"}}
+{"time":"2024-10-16T05:11:14.470900318+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"mqorg844"}}
+{"time":"2024-10-16T05:11:14.475589118+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T05:11:14.476454318+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-16T05:11:14.643156017+05:30","level":"INFO","msg":"stream: closing","id":"mqorg844"}
+{"time":"2024-10-16T05:11:14.643373317+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-16T05:11:14.643954417+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-16T05:11:14.644136317+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"mqorg844"}}
+{"time":"2024-10-16T05:11:14.644192417+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mqorg844"}}
+{"time":"2024-10-16T05:11:14.644229117+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"mqorg844"}}
+{"time":"2024-10-16T05:11:14.644322217+05:30","level":"INFO","msg":"stream: closed","id":"mqorg844"}

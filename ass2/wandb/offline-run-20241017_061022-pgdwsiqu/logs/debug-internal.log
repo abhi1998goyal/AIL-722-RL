@@ -1,0 +1,11 @@
+{"time":"2024-10-17T06:10:22.986672842+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T06:10:22.986763042+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_061022-pgdwsiqu/logs/debug-core.log"}
+{"time":"2024-10-17T06:10:22.986925642+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T06:10:22.986943842+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_061022-pgdwsiqu/logs/debug-core.log"}
+{"time":"2024-10-17T06:10:23.131768791+05:30","level":"INFO","msg":"created new stream","id":"pgdwsiqu"}
+{"time":"2024-10-17T06:10:23.131879391+05:30","level":"INFO","msg":"stream: started","id":"pgdwsiqu"}
+{"time":"2024-10-17T06:10:23.131965991+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"pgdwsiqu"}}
+{"time":"2024-10-17T06:10:23.132083092+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"pgdwsiqu"}}
+{"time":"2024-10-17T06:10:23.131965891+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"pgdwsiqu"}}
+{"time":"2024-10-17T06:10:23.146376996+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-17T06:10:23.150282598+05:30","level":"INFO","msg":"Starting system monitor"}

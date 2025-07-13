@@ -1,0 +1,55 @@
+wandb_version: 1
+
+eps_start:
+  desc: null
+  value: 1
+eps_end:
+  desc: null
+  value: 0.005
+eps_decay:
+  desc: null
+  value: 0.99
+eps_k:
+  desc: null
+  value: 100
+n_episodes:
+  desc: null
+  value: 5000
+batch_size:
+  desc: null
+  value: 64
+gamma:
+  desc: null
+  value: 0.99
+tau:
+  desc: null
+  value: 0.001
+max_traj_len:
+  desc: null
+  value: 1000
+_wandb:
+  desc: null
+  value:
+    python_version: 3.9.20
+    cli_version: 0.18.1
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: true
+    start_time: 1729500095
+    t:
+      1:
+      - 1
+      - 55
+      3:
+      - 4
+      - 13
+      - 16
+      - 23
+      - 42
+      - 55
+      4: 3.9.20
+      5: 0.18.1
+      8:
+      - 2
+      - 5
+      13: linux-x86_64

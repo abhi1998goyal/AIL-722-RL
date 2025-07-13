@@ -1,0 +1,12 @@
+{
+  "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python": "3.9.20",
+  "startedAt": "2024-10-21T08:31:46.947827Z",
+  "program": "/home/RL/ass2/p3/p3.1/train.py",
+  "codePath": "p3/p3.1/train.py",
+  "root": "/home/RL/ass2",
+  "host": "Abhishek",
+  "username": "root",
+  "executable": "/root/anaconda3/envs/dqn_1/bin/python",
+  "codePathLocal": "p3/p3.1/train.py"
+}

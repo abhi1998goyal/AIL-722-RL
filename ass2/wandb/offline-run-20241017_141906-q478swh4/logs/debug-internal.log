@@ -1,0 +1,18 @@
+{"time":"2024-10-17T14:19:06.446105436+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T14:19:06.446150236+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_141906-q478swh4/logs/debug-core.log"}
+{"time":"2024-10-17T14:19:06.446227136+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T14:19:06.446236136+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_141906-q478swh4/logs/debug-core.log"}
+{"time":"2024-10-17T14:19:06.567145834+05:30","level":"INFO","msg":"created new stream","id":"q478swh4"}
+{"time":"2024-10-17T14:19:06.567239834+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"q478swh4"}}
+{"time":"2024-10-17T14:19:06.567365334+05:30","level":"INFO","msg":"stream: started","id":"q478swh4"}
+{"time":"2024-10-17T14:19:06.567392134+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"q478swh4"}}
+{"time":"2024-10-17T14:19:06.567472134+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"q478swh4"}}
+{"time":"2024-10-17T14:19:06.576305833+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-17T14:19:06.577621133+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-17T14:19:31.101835131+05:30","level":"INFO","msg":"stream: closing","id":"q478swh4"}
+{"time":"2024-10-17T14:19:31.101907431+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-17T14:19:31.102390233+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-17T14:19:31.102738235+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"q478swh4"}}
+{"time":"2024-10-17T14:19:31.102781135+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"q478swh4"}}
+{"time":"2024-10-17T14:19:31.102828735+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"q478swh4"}}
+{"time":"2024-10-17T14:19:31.103179036+05:30","level":"INFO","msg":"stream: closed","id":"q478swh4"}

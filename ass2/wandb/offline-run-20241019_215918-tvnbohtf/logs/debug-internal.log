@@ -1,0 +1,18 @@
+{"time":"2024-10-19T21:59:18.897276828+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-19T21:59:18.897318028+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241019_215918-tvnbohtf/logs/debug-core.log"}
+{"time":"2024-10-19T21:59:18.897386228+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-19T21:59:18.897394028+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241019_215918-tvnbohtf/logs/debug-core.log"}
+{"time":"2024-10-19T21:59:18.999030621+05:30","level":"INFO","msg":"created new stream","id":"tvnbohtf"}
+{"time":"2024-10-19T21:59:18.999135221+05:30","level":"INFO","msg":"stream: started","id":"tvnbohtf"}
+{"time":"2024-10-19T21:59:18.999234421+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"tvnbohtf"}}
+{"time":"2024-10-19T21:59:18.999299221+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"tvnbohtf"}}
+{"time":"2024-10-19T21:59:18.999201921+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tvnbohtf"}}
+{"time":"2024-10-19T21:59:19.008761221+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-19T21:59:19.009424121+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-19T21:59:20.274383441+05:30","level":"INFO","msg":"stream: closing","id":"tvnbohtf"}
+{"time":"2024-10-19T21:59:20.274477041+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-19T21:59:20.275032741+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-19T21:59:20.275660741+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"tvnbohtf"}}
+{"time":"2024-10-19T21:59:20.275732741+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tvnbohtf"}}
+{"time":"2024-10-19T21:59:20.275799841+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"tvnbohtf"}}
+{"time":"2024-10-19T21:59:20.275833441+05:30","level":"INFO","msg":"stream: closed","id":"tvnbohtf"}

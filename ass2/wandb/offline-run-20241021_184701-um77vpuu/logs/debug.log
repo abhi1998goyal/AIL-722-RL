@@ -1,0 +1,25 @@
+2024-10-21 18:47:01,344 INFO    MainThread:456850 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_setup.py:_flush():77] Configure stats pid to 456850
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_setup.py:_flush():77] Loading settings from /root/.config/wandb/settings
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_setup.py:_flush():77] Loading settings from /home/RL/ass2/wandb/settings
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_setup.py:_flush():77] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program_relpath': 'p3/p3.2/dqn_1.py', 'program_abspath': '/home/RL/ass2/p3/p3.2/dqn_1.py', 'program': '/home/RL/ass2/p3/p3.2/dqn_1.py'}
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_init.py:_log_setup():532] Logging user logs to /home/RL/ass2/wandb/offline-run-20241021_184701-um77vpuu/logs/debug.log
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_init.py:_log_setup():533] Logging internal logs to /home/RL/ass2/wandb/offline-run-20241021_184701-um77vpuu/logs/debug-internal.log
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_init.py:init():616] calling init triggers
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_init.py:init():666] starting backend
+2024-10-21 18:47:01,345 INFO    MainThread:456850 [wandb_init.py:init():670] setting up manager
+2024-10-21 18:47:01,347 INFO    MainThread:456850 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-21 18:47:01,349 INFO    MainThread:456850 [wandb_init.py:init():678] backend started and connected
+2024-10-21 18:47:01,354 INFO    MainThread:456850 [wandb_init.py:init():773] updated telemetry
+2024-10-21 18:47:01,355 INFO    MainThread:456850 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-10-21 18:47:01,400 INFO    MainThread:456850 [wandb_init.py:init():857] starting run threads in backend
+2024-10-21 18:47:01,466 INFO    MainThread:456850 [wandb_run.py:_console_start():2459] atexit reg
+2024-10-21 18:47:01,466 INFO    MainThread:456850 [wandb_run.py:_redirect():2307] redirect: wrap_raw
+2024-10-21 18:47:01,466 INFO    MainThread:456850 [wandb_run.py:_redirect():2372] Wrapping output streams.
+2024-10-21 18:47:01,467 INFO    MainThread:456850 [wandb_run.py:_redirect():2397] Redirects installed.
+2024-10-21 18:47:01,468 INFO    MainThread:456850 [wandb_init.py:init():900] run started, returning control to user process
+2024-10-21 19:44:30,085 WARNING MsgRouterThr:456850 [router.py:message_loop():77] message_loop has been closed

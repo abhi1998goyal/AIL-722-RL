@@ -1,0 +1,13 @@
+{"time":"2024-10-21T14:26:47.999070837+05:30","level":"INFO","msg":"started logging, with flags","port-filename":"/var/tmp/pbs.174386.pbshpc/tmpqmzq4s_c/port-14510.txt","pid":14510,"debug":false,"disable-analytics":false}
+{"time":"2024-10-21T14:26:47.999263179+05:30","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-10-21T14:26:48.119658573+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":14510}
+{"time":"2024-10-21T14:26:48.119638768+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":40867,"Zone":""}}
+{"time":"2024-10-21T14:26:48.196707431+05:30","level":"INFO","msg":"created new connection","id":"127.0.0.1:40056"}
+{"time":"2024-10-21T14:26:48.214712176+05:30","level":"INFO","msg":"connection init received","streamId":"bgltur2z","id":"127.0.0.1:40056"}
+{"time":"2024-10-21T14:26:48.229300563+05:30","level":"ERROR","msg":"error creating symlink","error":"symlink /home/scai/mtech/aib232073/.cache/wandb/logs/core-debug-20241021_142647.log /home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142648-bgltur2z/logs/debug-core.log: file exists"}
+{"time":"2024-10-21T14:26:48.231198914+05:30","level":"INFO","msg":"connection init completed","streamId":"bgltur2z","id":"127.0.0.1:40056"}
+{"time":"2024-10-21T14:32:33.021680389+05:30","level":"INFO","msg":"connection: teardown","id":"127.0.0.1:40056"}
+{"time":"2024-10-21T14:32:33.021797934+05:30","level":"INFO","msg":"closed connection","id":"127.0.0.1:40056"}
+{"time":"2024-10-21T14:32:33.021846286+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2024-10-21T14:32:33.036419048+05:30","level":"INFO","msg":"connection closed","id":"127.0.0.1:40056"}
+{"time":"2024-10-21T14:32:33.03643901+05:30","level":"INFO","msg":"server is closed"}

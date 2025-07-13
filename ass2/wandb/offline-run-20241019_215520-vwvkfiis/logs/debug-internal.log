@@ -1,0 +1,18 @@
+{"time":"2024-10-19T21:55:20.72431754+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-19T21:55:20.72436834+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241019_215520-vwvkfiis/logs/debug-core.log"}
+{"time":"2024-10-19T21:55:20.72448024+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-19T21:55:20.72449174+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241019_215520-vwvkfiis/logs/debug-core.log"}
+{"time":"2024-10-19T21:55:20.848892142+05:30","level":"INFO","msg":"created new stream","id":"vwvkfiis"}
+{"time":"2024-10-19T21:55:20.849133842+05:30","level":"INFO","msg":"stream: started","id":"vwvkfiis"}
+{"time":"2024-10-19T21:55:20.849207742+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"vwvkfiis"}}
+{"time":"2024-10-19T21:55:20.849311242+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"vwvkfiis"}}
+{"time":"2024-10-19T21:55:20.849308742+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vwvkfiis"}}
+{"time":"2024-10-19T21:55:20.869902743+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-19T21:55:20.872441143+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-19T21:55:22.709851173+05:30","level":"INFO","msg":"stream: closing","id":"vwvkfiis"}
+{"time":"2024-10-19T21:55:22.709929973+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-19T21:55:22.710382573+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-19T21:55:22.710629573+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"vwvkfiis"}}
+{"time":"2024-10-19T21:55:22.710667273+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vwvkfiis"}}
+{"time":"2024-10-19T21:55:22.710707073+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"vwvkfiis"}}
+{"time":"2024-10-19T21:55:22.710955173+05:30","level":"INFO","msg":"stream: closed","id":"vwvkfiis"}

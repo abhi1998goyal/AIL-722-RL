@@ -1,0 +1,11 @@
+{"time":"2024-10-21T13:47:17.714935903+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T13:47:17.715184635+05:30","level":"INFO","msg":"created symlink","path":"/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/logs/debug-core.log"}
+{"time":"2024-10-21T13:47:17.71560077+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T13:47:17.715638758+05:30","level":"INFO","msg":"created symlink","path":"/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/logs/debug-core.log"}
+{"time":"2024-10-21T13:47:17.73830767+05:30","level":"INFO","msg":"created new stream","id":"c4levyoi"}
+{"time":"2024-10-21T13:47:17.738337404+05:30","level":"INFO","msg":"stream: started","id":"c4levyoi"}
+{"time":"2024-10-21T13:47:17.738382856+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"c4levyoi"}}
+{"time":"2024-10-21T13:47:17.738468515+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"c4levyoi"}}
+{"time":"2024-10-21T13:47:17.738538358+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"c4levyoi"}}
+{"time":"2024-10-21T13:47:17.742964158+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-21T13:47:17.783136365+05:30","level":"INFO","msg":"Starting system monitor"}

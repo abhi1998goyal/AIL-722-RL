@@ -1,0 +1,18 @@
+{"time":"2024-10-21T18:45:33.587036312+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T18:45:33.587057112+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241021_184533-ds8uljnl/logs/debug-core.log"}
+{"time":"2024-10-21T18:45:33.587108312+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T18:45:33.587112412+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241021_184533-ds8uljnl/logs/debug-core.log"}
+{"time":"2024-10-21T18:45:33.630898515+05:30","level":"INFO","msg":"created new stream","id":"ds8uljnl"}
+{"time":"2024-10-21T18:45:33.630944115+05:30","level":"INFO","msg":"stream: started","id":"ds8uljnl"}
+{"time":"2024-10-21T18:45:33.631040315+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ds8uljnl"}}
+{"time":"2024-10-21T18:45:33.630972915+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ds8uljnl"}}
+{"time":"2024-10-21T18:45:33.630978615+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ds8uljnl"}}
+{"time":"2024-10-21T18:45:33.635437615+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-21T18:45:33.635903615+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-21T18:45:33.944584235+05:30","level":"INFO","msg":"stream: closing","id":"ds8uljnl"}
+{"time":"2024-10-21T18:45:33.944631635+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-21T18:45:33.944857935+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-21T18:45:33.945094035+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ds8uljnl"}}
+{"time":"2024-10-21T18:45:33.945132635+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ds8uljnl"}}
+{"time":"2024-10-21T18:45:33.945203835+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ds8uljnl"}}
+{"time":"2024-10-21T18:45:33.945211935+05:30","level":"INFO","msg":"stream: closed","id":"ds8uljnl"}

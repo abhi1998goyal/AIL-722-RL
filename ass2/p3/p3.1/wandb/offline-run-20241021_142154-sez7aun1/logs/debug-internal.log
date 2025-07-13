@@ -1,0 +1,18 @@
+{"time":"2024-10-21T14:21:54.961514897+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T14:21:54.961692522+05:30","level":"INFO","msg":"created symlink","path":"/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/logs/debug-core.log"}
+{"time":"2024-10-21T14:21:54.961866953+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T14:21:54.961877962+05:30","level":"INFO","msg":"created symlink","path":"/home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_142154-sez7aun1/logs/debug-core.log"}
+{"time":"2024-10-21T14:21:54.966390482+05:30","level":"INFO","msg":"created new stream","id":"sez7aun1"}
+{"time":"2024-10-21T14:21:54.966444929+05:30","level":"INFO","msg":"stream: started","id":"sez7aun1"}
+{"time":"2024-10-21T14:21:54.966472376+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"sez7aun1"}}
+{"time":"2024-10-21T14:21:54.966512565+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"sez7aun1"}}
+{"time":"2024-10-21T14:21:54.966488684+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"sez7aun1"}}
+{"time":"2024-10-21T14:21:54.970855551+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-21T14:21:55.011144855+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-21T14:25:05.650346899+05:30","level":"INFO","msg":"stream: closing","id":"sez7aun1"}
+{"time":"2024-10-21T14:25:05.650458661+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-21T14:25:05.651447134+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-21T14:25:05.651563061+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"sez7aun1"}}
+{"time":"2024-10-21T14:25:05.651585492+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"sez7aun1"}}
+{"time":"2024-10-21T14:25:05.651579247+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"sez7aun1"}}
+{"time":"2024-10-21T14:25:05.651783876+05:30","level":"INFO","msg":"stream: closed","id":"sez7aun1"}

@@ -1,0 +1,11 @@
+{"time":"2024-10-17T04:14:52.433429375+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T04:14:52.433473575+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_041452-uxcdjqgs/logs/debug-core.log"}
+{"time":"2024-10-17T04:14:52.433565275+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T04:14:52.433576675+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_041452-uxcdjqgs/logs/debug-core.log"}
+{"time":"2024-10-17T04:14:52.528731092+05:30","level":"INFO","msg":"created new stream","id":"uxcdjqgs"}
+{"time":"2024-10-17T04:14:52.528833892+05:30","level":"INFO","msg":"stream: started","id":"uxcdjqgs"}
+{"time":"2024-10-17T04:14:52.528879392+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"uxcdjqgs"}}
+{"time":"2024-10-17T04:14:52.528959292+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"uxcdjqgs"}}
+{"time":"2024-10-17T04:14:52.528902192+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"uxcdjqgs"}}
+{"time":"2024-10-17T04:14:52.535950693+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-17T04:14:52.536635093+05:30","level":"INFO","msg":"Starting system monitor"}

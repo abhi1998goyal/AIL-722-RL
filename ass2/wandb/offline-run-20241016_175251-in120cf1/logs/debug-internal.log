@@ -1,0 +1,18 @@
+{"time":"2024-10-16T17:52:51.733035592+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T17:52:51.733086092+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_175251-in120cf1/logs/debug-core.log"}
+{"time":"2024-10-16T17:52:51.733206692+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T17:52:51.733230992+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_175251-in120cf1/logs/debug-core.log"}
+{"time":"2024-10-16T17:52:51.844572128+05:30","level":"INFO","msg":"created new stream","id":"in120cf1"}
+{"time":"2024-10-16T17:52:51.844674528+05:30","level":"INFO","msg":"stream: started","id":"in120cf1"}
+{"time":"2024-10-16T17:52:51.844782728+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"in120cf1"}}
+{"time":"2024-10-16T17:52:51.844901128+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"in120cf1"}}
+{"time":"2024-10-16T17:52:51.844745228+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"in120cf1"}}
+{"time":"2024-10-16T17:52:51.853737431+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T17:52:51.854682231+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-16T17:59:36.938727927+05:30","level":"INFO","msg":"stream: closing","id":"in120cf1"}
+{"time":"2024-10-16T17:59:36.938812027+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-16T17:59:36.939155127+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-16T17:59:36.939437227+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"in120cf1"}}
+{"time":"2024-10-16T17:59:36.939524127+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"in120cf1"}}
+{"time":"2024-10-16T17:59:36.939640027+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"in120cf1"}}
+{"time":"2024-10-16T17:59:36.939708627+05:30","level":"INFO","msg":"stream: closed","id":"in120cf1"}

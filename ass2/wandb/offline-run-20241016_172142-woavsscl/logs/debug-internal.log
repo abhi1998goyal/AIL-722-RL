@@ -1,0 +1,18 @@
+{"time":"2024-10-16T17:21:42.943848547+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T17:21:42.943872247+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_172142-woavsscl/logs/debug-core.log"}
+{"time":"2024-10-16T17:21:42.943912147+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T17:21:42.943916747+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_172142-woavsscl/logs/debug-core.log"}
+{"time":"2024-10-16T17:21:42.99185855+05:30","level":"INFO","msg":"created new stream","id":"woavsscl"}
+{"time":"2024-10-16T17:21:42.99193895+05:30","level":"INFO","msg":"stream: started","id":"woavsscl"}
+{"time":"2024-10-16T17:21:42.99197455+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"woavsscl"}}
+{"time":"2024-10-16T17:21:42.99202545+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"woavsscl"}}
+{"time":"2024-10-16T17:21:42.99197605+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"woavsscl"}}
+{"time":"2024-10-16T17:21:42.996462051+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T17:21:42.997423251+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-16T17:30:10.155667664+05:30","level":"INFO","msg":"stream: closing","id":"woavsscl"}
+{"time":"2024-10-16T17:30:10.155885864+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-16T17:30:10.156368664+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-16T17:30:10.156783364+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"woavsscl"}}
+{"time":"2024-10-16T17:30:10.156834264+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"woavsscl"}}
+{"time":"2024-10-16T17:30:10.156939064+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"woavsscl"}}
+{"time":"2024-10-16T17:30:10.156990164+05:30","level":"INFO","msg":"stream: closed","id":"woavsscl"}

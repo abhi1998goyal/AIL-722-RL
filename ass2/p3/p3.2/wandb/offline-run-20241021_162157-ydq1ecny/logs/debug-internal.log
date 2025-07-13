@@ -1,0 +1,18 @@
+{"time":"2024-10-21T16:21:57.357418795+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T16:21:57.357625392+05:30","level":"INFO","msg":"created symlink","path":"/home/scai/mtech/aib232073/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/logs/debug-core.log"}
+{"time":"2024-10-21T16:21:57.357820859+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-21T16:21:57.357833198+05:30","level":"INFO","msg":"created symlink","path":"/home/scai/mtech/aib232073/RL/ass2/p3/p3.2/wandb/offline-run-20241021_162157-ydq1ecny/logs/debug-core.log"}
+{"time":"2024-10-21T16:21:57.359374628+05:30","level":"INFO","msg":"created new stream","id":"ydq1ecny"}
+{"time":"2024-10-21T16:21:57.35940984+05:30","level":"INFO","msg":"stream: started","id":"ydq1ecny"}
+{"time":"2024-10-21T16:21:57.359415965+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ydq1ecny"}}
+{"time":"2024-10-21T16:21:57.359477276+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ydq1ecny"}}
+{"time":"2024-10-21T16:21:57.359456148+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ydq1ecny"}}
+{"time":"2024-10-21T16:21:57.363835541+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-21T16:21:57.404304395+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-21T16:37:46.037837067+05:30","level":"INFO","msg":"stream: closing","id":"ydq1ecny"}
+{"time":"2024-10-21T16:37:46.037884394+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-21T16:37:46.038844279+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-21T16:37:46.039269801+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ydq1ecny"}}
+{"time":"2024-10-21T16:37:46.039319717+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ydq1ecny"}}
+{"time":"2024-10-21T16:37:46.039339282+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ydq1ecny"}}
+{"time":"2024-10-21T16:37:46.040354713+05:30","level":"INFO","msg":"stream: closed","id":"ydq1ecny"}

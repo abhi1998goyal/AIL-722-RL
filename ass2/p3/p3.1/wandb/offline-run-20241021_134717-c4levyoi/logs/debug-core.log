@@ -1,0 +1,8 @@
+{"time":"2024-10-21T13:47:17.497981304+05:30","level":"INFO","msg":"started logging, with flags","port-filename":"/var/tmp/pbs.174386.pbshpc/tmpuqz2bf_r/port-12041.txt","pid":12041,"debug":false,"disable-analytics":false}
+{"time":"2024-10-21T13:47:17.499321608+05:30","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-10-21T13:47:17.530054882+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":12041}
+{"time":"2024-10-21T13:47:17.530022982+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":40545,"Zone":""}}
+{"time":"2024-10-21T13:47:17.69063124+05:30","level":"INFO","msg":"created new connection","id":"127.0.0.1:44820"}
+{"time":"2024-10-21T13:47:17.712301179+05:30","level":"INFO","msg":"connection init received","streamId":"c4levyoi","id":"127.0.0.1:44820"}
+{"time":"2024-10-21T13:47:17.715492736+05:30","level":"ERROR","msg":"error creating symlink","error":"symlink /home/scai/mtech/aib232073/.cache/wandb/logs/core-debug-20241021_134717.log /home/scai/mtech/aib232073/RL/ass2/p3/p3.1/wandb/offline-run-20241021_134717-c4levyoi/logs/debug-core.log: file exists"}
+{"time":"2024-10-21T13:47:17.738349987+05:30","level":"INFO","msg":"connection init completed","streamId":"c4levyoi","id":"127.0.0.1:44820"}

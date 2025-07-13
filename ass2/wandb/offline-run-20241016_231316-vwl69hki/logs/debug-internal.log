@@ -1,0 +1,18 @@
+{"time":"2024-10-16T23:13:16.902797183+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T23:13:16.902830183+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_231316-vwl69hki/logs/debug-core.log"}
+{"time":"2024-10-16T23:13:16.902910883+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-16T23:13:16.902919383+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241016_231316-vwl69hki/logs/debug-core.log"}
+{"time":"2024-10-16T23:13:16.965634183+05:30","level":"INFO","msg":"created new stream","id":"vwl69hki"}
+{"time":"2024-10-16T23:13:16.965686783+05:30","level":"INFO","msg":"stream: started","id":"vwl69hki"}
+{"time":"2024-10-16T23:13:16.965736583+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"vwl69hki"}}
+{"time":"2024-10-16T23:13:16.965802483+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vwl69hki"}}
+{"time":"2024-10-16T23:13:16.965772383+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"vwl69hki"}}
+{"time":"2024-10-16T23:13:16.970631483+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-16T23:13:16.971514883+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-16T23:34:24.574705742+05:30","level":"INFO","msg":"stream: closing","id":"vwl69hki"}
+{"time":"2024-10-16T23:34:24.574921542+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-16T23:34:24.575170342+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-16T23:34:24.575889842+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"vwl69hki"}}
+{"time":"2024-10-16T23:34:24.576056442+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vwl69hki"}}
+{"time":"2024-10-16T23:34:24.576082842+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"vwl69hki"}}
+{"time":"2024-10-16T23:34:24.576211242+05:30","level":"INFO","msg":"stream: closed","id":"vwl69hki"}

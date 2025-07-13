@@ -1,0 +1,13 @@
+/home/scai/mtech/aib232073/RL/ass2/p3/p3.2/dqn_1.py:196: DeprecationWarning: In future, it will be an error for 'np.bool_' scalars to be interpreted as an index
+  states = torch.tensor(states).float().to(self.device)
+/home/scai/mtech/aib232073/RL/ass2/p3/p3.2/dqn_1.py:196: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at  /opt/conda/conda-bld/pytorch_1659484809662/work/torch/csrc/utils/tensor_new.cpp:201.)
+  states = torch.tensor(states).float().to(self.device)
+/home/scai/mtech/aib232073/RL/ass2/p3/p3.2/dqn_1.py:198: DeprecationWarning: In future, it will be an error for 'np.bool_' scalars to be interpreted as an index
+  next_states = torch.tensor(next_states).float().to(self.device)
+Traceback (most recent call last):
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.2/dqn_1.py", line 276, in <module>
+    qagent.learn_policy()
+  File "/home/scai/mtech/aib232073/RL/ass2/p3/p3.2/dqn_1.py", line 196, in learn_policy
+    states = torch.tensor(states).float().to(self.device)
+KeyboardInterrupt
+Saved Checkpoint !

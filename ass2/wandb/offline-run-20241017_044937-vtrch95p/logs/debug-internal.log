@@ -1,0 +1,18 @@
+{"time":"2024-10-17T04:49:37.016005256+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T04:49:37.016039156+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_044937-vtrch95p/logs/debug-core.log"}
+{"time":"2024-10-17T04:49:37.016097056+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-17T04:49:37.016104756+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241017_044937-vtrch95p/logs/debug-core.log"}
+{"time":"2024-10-17T04:49:37.082214275+05:30","level":"INFO","msg":"created new stream","id":"vtrch95p"}
+{"time":"2024-10-17T04:49:37.082299775+05:30","level":"INFO","msg":"stream: started","id":"vtrch95p"}
+{"time":"2024-10-17T04:49:37.082353275+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"vtrch95p"}}
+{"time":"2024-10-17T04:49:37.082401675+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"vtrch95p"}}
+{"time":"2024-10-17T04:49:37.082360975+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vtrch95p"}}
+{"time":"2024-10-17T04:49:37.089433277+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-17T04:49:37.090418977+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-17T04:52:42.876225221+05:30","level":"INFO","msg":"stream: closing","id":"vtrch95p"}
+{"time":"2024-10-17T04:52:42.876353221+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-17T04:52:42.876654221+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-17T04:52:42.877041621+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"vtrch95p"}}
+{"time":"2024-10-17T04:52:42.877077721+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vtrch95p"}}
+{"time":"2024-10-17T04:52:42.877095421+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"vtrch95p"}}
+{"time":"2024-10-17T04:52:42.877166021+05:30","level":"INFO","msg":"stream: closed","id":"vtrch95p"}

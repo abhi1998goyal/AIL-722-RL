@@ -1,0 +1,11 @@
+{"time":"2024-10-20T00:15:00.061734953+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-20T00:15:00.061783653+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241020_001500-monusb4u/logs/debug-core.log"}
+{"time":"2024-10-20T00:15:00.061838253+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-20T00:15:00.061844653+05:30","level":"INFO","msg":"created symlink","path":"/home/RL/ass2/wandb/offline-run-20241020_001500-monusb4u/logs/debug-core.log"}
+{"time":"2024-10-20T00:15:00.161642154+05:30","level":"INFO","msg":"created new stream","id":"monusb4u"}
+{"time":"2024-10-20T00:15:00.161735054+05:30","level":"INFO","msg":"stream: started","id":"monusb4u"}
+{"time":"2024-10-20T00:15:00.161785454+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"monusb4u"}}
+{"time":"2024-10-20T00:15:00.161852354+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"monusb4u"}}
+{"time":"2024-10-20T00:15:00.161931154+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"monusb4u"}}
+{"time":"2024-10-20T00:15:00.172082654+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-20T00:15:00.173124254+05:30","level":"INFO","msg":"Starting system monitor"}
